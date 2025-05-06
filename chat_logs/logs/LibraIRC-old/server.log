@@ -1,0 +1,2177 @@
+**** BEGIN LOGGING AT Tue Oct 18 09:36:05 2016
+
+Oct 18 09:36:05 *	Looking up irc.librairc.net
+**** BEGIN LOGGING AT Tue Oct 18 17:33:16 2016
+
+Oct 18 17:33:16 *	Looking up irc.librairc.net
+Oct 18 17:33:16 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Oct 18 17:33:16 *	Connected. Now logging in.
+Oct 18 17:33:16 *	*** Looking up your hostname...
+Oct 18 17:33:16 *	*** Skipping host resolution (disabled by server administrator)
+Oct 18 17:33:17 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 18 17:33:17 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 18 17:33:17 *	RammsteinFan is already in use. Retrying with RF...
+Oct 18 17:33:17 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 18 17:33:17 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG sQHpvPN~Zx or /raw PONG sQHpvPN~Zx now.
+Oct 18 17:33:18 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Oct 18 17:33:18 2016
+
+**** BEGIN LOGGING AT Wed Oct 19 13:57:46 2016
+
+Oct 19 13:57:46 *	Looking up irc.librairc.net
+Oct 19 13:57:46 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 19 13:57:47 *	Connected. Now logging in.
+Oct 19 13:57:47 *	*** Looking up your hostname...
+Oct 19 13:57:47 *	*** Skipping host resolution (disabled by server administrator)
+Oct 19 13:57:47 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 19 13:57:47 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 19 13:57:47 *	RammsteinFan is already in use. Retrying with RF...
+Oct 19 13:57:47 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 19 13:57:48 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ~CispPPJv` or /raw PONG ~CispPPJv` now.
+Oct 19 13:57:51 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Oct 19 13:57:51 2016
+
+**** BEGIN LOGGING AT Wed Oct 19 14:01:10 2016
+
+Oct 19 14:01:10 *	Looking up irc.librairc.net
+Oct 19 14:01:10 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 19 14:01:10 *	Connected. Now logging in.
+Oct 19 14:01:11 *	*** Looking up your hostname...
+Oct 19 14:01:11 *	*** Skipping host resolution (disabled by server administrator)
+Oct 19 14:01:11 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 19 14:01:11 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 19 14:01:11 *	RammsteinFan is already in use. Retrying with RF...
+Oct 19 14:01:11 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 19 14:01:11 *	RF is already in use. Retrying with ...
+Oct 19 14:01:13 *	NICK :Not enough parameters.
+Oct 19 14:01:21 *	Closing link: (RammsteinFa@124.125.231.149) [Registration timeout]
+Oct 19 14:01:21 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Wed Oct 19 14:01:24 2016
+
+**** BEGIN LOGGING AT Wed Oct 19 14:01:34 2016
+
+Oct 19 14:01:34 *	Looking up irc.librairc.net
+Oct 19 14:01:34 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 19 14:01:34 *	Connected. Now logging in.
+Oct 19 14:01:34 *	*** Looking up your hostname...
+Oct 19 14:01:34 *	*** Skipping host resolution (disabled by server administrator)
+Oct 19 14:01:35 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 19 14:01:35 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 19 14:01:35 *	RammsteinFan is already in use. Retrying with RF...
+Oct 19 14:01:35 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 19 14:01:35 *	RF is already in use. Retrying with NeoAndersen...
+**** BEGIN LOGGING AT Wed Oct 19 14:05:53 2016
+
+Oct 19 14:05:53 *	Looking up irc.librairc.net
+Oct 19 14:05:53 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 19 14:05:53 *	Connected. Now logging in.
+Oct 19 14:05:53 *	*** Looking up your hostname...
+Oct 19 14:05:53 *	*** Skipping host resolution (disabled by server administrator)
+Oct 19 14:05:54 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 19 14:05:54 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 19 14:05:54 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG JQFFA]}ObQ or /raw PONG JQFFA]}ObQ now.
+Oct 19 14:05:54 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 19 14:05:55 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Oct 19 14:05:55 2016
+
+**** BEGIN LOGGING AT Thu Oct 20 08:26:36 2016
+
+Oct 20 08:26:36 *	Looking up irc.librairc.net
+Oct 20 08:26:36 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Oct 20 08:26:37 *	Connected. Now logging in.
+Oct 20 08:26:37 *	*** Looking up your hostname...
+Oct 20 08:26:37 *	*** Skipping host resolution (disabled by server administrator)
+Oct 20 08:26:37 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 20 08:26:37 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 20 08:26:37 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 20 08:26:38 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 20 08:26:38 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG OnZqjRIVFM or /raw PONG OnZqjRIVFM now.
+Oct 20 08:26:40 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Oct 20 08:26:40 2016
+
+**** BEGIN LOGGING AT Thu Oct 20 08:31:20 2016
+
+Oct 20 08:31:20 *	Looking up irc.librairc.net
+Oct 20 08:31:20 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Oct 20 08:31:21 *	Connected. Now logging in.
+Oct 20 08:31:21 *	*** Looking up your hostname...
+Oct 20 08:31:21 *	*** Skipping host resolution (disabled by server administrator)
+Oct 20 08:31:21 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 20 08:31:21 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 20 08:31:22 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 20 08:31:22 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 20 08:31:23 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG k@`YjSmwLt or /raw PONG k@`YjSmwLt now.
+Oct 20 08:31:24 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Oct 20 08:31:24 2016
+
+**** BEGIN LOGGING AT Thu Oct 20 14:32:08 2016
+
+Oct 20 14:32:08 *	Looking up irc.librairc.net
+Oct 20 14:32:08 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 20 14:32:09 *	Connected. Now logging in.
+Oct 20 14:32:09 *	*** Looking up your hostname...
+Oct 20 14:32:09 *	*** Skipping host resolution (disabled by server administrator)
+Oct 20 14:32:09 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 20 14:32:09 *	Capabilities requested: multi-prefix sasl userhost-in-names 
+Oct 20 14:32:09 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 20 14:32:09 *	Capabilities acknowledged: multi-prefix sasl userhost-in-names
+Oct 20 14:32:10 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG mBJSLtvClY or /raw PONG mBJSLtvClY now.
+Oct 20 14:32:10 *	Authenticating via SASL as RammsteinFan (PLAIN)
+Oct 20 14:32:12 *	You are now logged in as RammsteinFan
+Oct 20 14:32:12 *	SASL authentication successful
+Oct 20 14:32:14 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Oct 20 14:32:14 2016
+
+**** BEGIN LOGGING AT Thu Oct 20 14:40:36 2016
+
+Oct 20 14:40:36 *	Looking up irc.librairc.net
+Oct 20 14:40:36 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 20 14:40:37 *	Connected. Now logging in.
+Oct 20 14:40:37 *	*** Looking up your hostname...
+Oct 20 14:40:37 *	*** Skipping host resolution (disabled by server administrator)
+Oct 20 14:40:37 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 20 14:40:37 *	Capabilities requested: multi-prefix sasl userhost-in-names 
+Oct 20 14:40:37 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 20 14:40:37 *	Capabilities acknowledged: multi-prefix sasl userhost-in-names
+Oct 20 14:40:38 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Oct 20 14:40:38 *	Authenticating via SASL as RammsteinFan (PLAIN)
+Oct 20 14:40:38 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG |@TtJvAmx{ or /raw PONG |@TtJvAmx{ now.
+Oct 20 14:40:40 *	You are now logged in as RammsteinFan
+Oct 20 14:40:40 *	SASL authentication successful
+Oct 20 14:40:45 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Oct 20 14:40:45 2016
+
+**** BEGIN LOGGING AT Thu Oct 20 14:41:00 2016
+
+Oct 20 14:41:00 *	Looking up irc.librairc.net
+Oct 20 14:41:00 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 20 14:41:00 *	Connected. Now logging in.
+Oct 20 14:41:01 *	*** Looking up your hostname...
+Oct 20 14:41:01 *	*** Skipping host resolution (disabled by server administrator)
+Oct 20 14:41:01 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 20 14:41:01 *	Capabilities requested: multi-prefix sasl userhost-in-names 
+Oct 20 14:41:01 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 20 14:41:01 *	Capabilities acknowledged: multi-prefix sasl userhost-in-names
+Oct 20 14:41:01 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG r\KOhnbr[y or /raw PONG r\KOhnbr[y now.
+Oct 20 14:41:02 *	Authenticating via SASL as RammsteinFan (PLAIN)
+Oct 20 14:41:03 *	You are now logged in as RammsteinFan
+Oct 20 14:41:03 *	SASL authentication successful
+Oct 20 14:41:05 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Oct 20 14:41:05 2016
+
+**** BEGIN LOGGING AT Thu Oct 20 14:43:27 2016
+
+Oct 20 14:43:27 *	Looking up irc.librairc.net
+Oct 20 14:43:27 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Oct 20 14:43:27 *	Connected. Now logging in.
+Oct 20 14:43:27 *	*** Looking up your hostname...
+Oct 20 14:43:27 *	*** Skipping host resolution (disabled by server administrator)
+Oct 20 14:43:28 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 20 14:43:28 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 20 14:43:28 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 20 14:43:28 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 20 14:43:28 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Oct 20 14:43:29 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG buz`LVnb|g or /raw PONG buz`LVnb|g now.
+Oct 20 14:43:30 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Oct 20 14:43:30 2016
+
+**** BEGIN LOGGING AT Thu Oct 20 14:44:42 2016
+
+Oct 20 14:44:42 *	Looking up irc.librairc.net
+Oct 20 14:44:43 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Oct 20 14:44:43 *	Connected. Now logging in.
+Oct 20 14:44:44 *	*** Looking up your hostname...
+Oct 20 14:44:44 *	*** Skipping host resolution (disabled by server administrator)
+Oct 20 14:44:44 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 20 14:44:44 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 20 14:44:44 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 20 14:44:44 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 20 14:44:45 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG qPubJjjKQn or /raw PONG qPubJjjKQn now.
+Oct 20 14:44:45 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Oct 20 14:44:45 2016
+
+**** BEGIN LOGGING AT Fri Oct 21 06:27:27 2016
+
+Oct 21 06:27:27 *	Looking up irc.librairc.net
+Oct 21 06:27:27 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Oct 21 06:27:27 *	Connected. Now logging in.
+Oct 21 06:27:27 *	*** Looking up your hostname...
+Oct 21 06:27:27 *	*** Skipping host resolution (disabled by server administrator)
+Oct 21 06:27:28 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 21 06:27:28 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 21 06:27:28 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 21 06:27:28 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 21 06:27:28 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Oct 21 06:27:28 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG MdYoJBX_@k or /raw PONG MdYoJBX_@k now.
+Oct 21 06:27:30 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Oct 21 06:27:30 2016
+
+**** BEGIN LOGGING AT Fri Oct 21 23:57:44 2016
+
+Oct 21 23:57:44 *	Looking up irc.librairc.net
+Oct 21 23:57:45 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Oct 21 23:57:45 *	Connected. Now logging in.
+Oct 21 23:57:47 *	*** Looking up your hostname...
+Oct 21 23:57:47 *	*** Skipping host resolution (disabled by server administrator)
+Oct 21 23:57:47 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 21 23:57:47 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 21 23:57:47 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 21 23:57:47 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 21 23:57:50 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG WIQByS}ZWx or /raw PONG WIQByS}ZWx now.
+Oct 21 23:57:51 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Oct 21 23:57:51 2016
+
+**** BEGIN LOGGING AT Sat Oct 22 08:45:24 2016
+
+Oct 22 08:45:24 *	Looking up irc.librairc.net
+Oct 22 08:45:24 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Oct 22 08:45:24 *	Connected. Now logging in.
+Oct 22 08:45:24 *	*** Looking up your hostname...
+Oct 22 08:45:24 *	*** Skipping host resolution (disabled by server administrator)
+Oct 22 08:45:24 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 22 08:45:24 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 22 08:45:24 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 22 08:45:25 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 22 08:45:25 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG cnjJEn~Bbv or /raw PONG cnjJEn~Bbv now.
+Oct 22 08:45:25 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Oct 22 08:45:25 2016
+
+**** BEGIN LOGGING AT Tue Oct 25 05:47:10 2016
+
+Oct 25 05:47:10 *	Looking up irc.librairc.net
+Oct 25 05:47:10 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Oct 25 05:47:11 *	Connected. Now logging in.
+Oct 25 05:47:11 *	*** Looking up your hostname...
+Oct 25 05:47:11 *	*** Skipping host resolution (disabled by server administrator)
+Oct 25 05:47:11 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 25 05:47:11 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 25 05:47:11 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Dd_DjnpXNH or /raw PONG Dd_DjnpXNH now.
+Oct 25 05:47:11 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 25 05:47:12 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Oct 25 05:47:12 2016
+
+**** BEGIN LOGGING AT Tue Oct 25 05:47:46 2016
+
+Oct 25 05:47:46 *	Looking up irc.librairc.net
+Oct 25 05:47:46 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Oct 25 05:47:46 *	Connected. Now logging in.
+Oct 25 05:47:46 *	*** Looking up your hostname...
+Oct 25 05:47:46 *	*** Skipping host resolution (disabled by server administrator)
+Oct 25 05:47:47 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Oct 25 05:47:47 *	Capabilities requested: multi-prefix userhost-in-names 
+Oct 25 05:47:47 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Oct 25 05:47:47 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Oct 25 05:47:47 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ]KKVAIK~n@ or /raw PONG ]KKVAIK~n@ now.
+Oct 25 05:47:48 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Oct 25 05:47:48 2016
+
+**** BEGIN LOGGING AT Sat Nov 12 09:45:36 2016
+
+Nov 12 09:45:36 *	Looking up irc.librairc.net
+Nov 12 09:45:36 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 12 09:45:36 *	Connected. Now logging in.
+Nov 12 09:45:36 *	*** Looking up your hostname...
+Nov 12 09:45:36 *	*** Skipping host resolution (disabled by server administrator)
+Nov 12 09:45:37 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 12 09:45:37 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 12 09:45:37 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 12 09:45:37 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 12 09:45:37 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Nov 12 09:45:38 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG {GqMuqzin~ or /raw PONG {GqMuqzin~ now.
+Nov 12 09:45:40 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 12 09:45:40 2016
+
+**** BEGIN LOGGING AT Sat Nov 12 20:22:59 2016
+
+Nov 12 20:22:59 *	Looking up irc.librairc.net
+Nov 12 20:22:59 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 12 20:23:02 *	Connected. Now logging in.
+Nov 12 20:23:03 *	*** Looking up your hostname...
+Nov 12 20:23:03 *	*** Skipping host resolution (disabled by server administrator)
+Nov 12 20:23:06 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 12 20:23:06 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 12 20:23:06 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 12 20:23:06 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 12 20:23:06 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Nov 12 20:23:07 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG NYlf{gfLeX or /raw PONG NYlf{gfLeX now.
+Nov 12 20:23:07 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 12 20:23:07 2016
+
+**** BEGIN LOGGING AT Sat Nov 12 20:26:16 2016
+
+Nov 12 20:26:16 *	Looking up irc.librairc.net
+Nov 12 20:26:16 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 12 20:26:16 *	Connected. Now logging in.
+Nov 12 20:26:16 *	*** Looking up your hostname...
+Nov 12 20:26:16 *	*** Skipping host resolution (disabled by server administrator)
+Nov 12 20:26:17 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 12 20:26:17 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 12 20:26:17 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG jnKFrSCHM\ or /raw PONG jnKFrSCHM\ now.
+Nov 12 20:26:17 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 12 20:26:19 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 12 20:26:19 2016
+
+**** BEGIN LOGGING AT Sat Nov 12 22:03:13 2016
+
+Nov 12 22:03:13 *	Looking up irc.librairc.net
+Nov 12 22:03:13 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 12 22:03:13 *	Connected. Now logging in.
+Nov 12 22:03:13 *	*** Looking up your hostname...
+Nov 12 22:03:13 *	*** Skipping host resolution (disabled by server administrator)
+Nov 12 22:03:14 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 12 22:03:14 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 12 22:03:14 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 12 22:03:14 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 12 22:03:14 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Nov 12 22:03:14 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG {DlSnTEVdz or /raw PONG {DlSnTEVdz now.
+Nov 12 22:03:17 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 12 22:03:17 2016
+
+**** BEGIN LOGGING AT Sat Nov 12 22:04:33 2016
+
+Nov 12 22:04:33 *	Looking up irc.librairc.net
+Nov 12 22:04:33 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Nov 12 22:04:33 *	Connected. Now logging in.
+Nov 12 22:04:34 *	*** Looking up your hostname...
+Nov 12 22:04:34 *	*** Skipping host resolution (disabled by server administrator)
+Nov 12 22:04:34 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 12 22:04:34 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 12 22:04:34 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Ufz`atRzWx or /raw PONG Ufz`atRzWx now.
+Nov 12 22:04:34 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 12 22:04:35 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 12 22:04:35 2016
+
+**** BEGIN LOGGING AT Sat Nov 12 22:15:08 2016
+
+Nov 12 22:15:08 *	Looking up irc.librairc.net
+Nov 12 22:15:08 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Nov 12 22:15:08 *	Connected. Now logging in.
+Nov 12 22:15:08 *	*** Looking up your hostname...
+Nov 12 22:15:08 *	*** Skipping host resolution (disabled by server administrator)
+Nov 12 22:15:09 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 12 22:15:09 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 12 22:15:09 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 12 22:15:09 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 12 22:15:09 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Nov 12 22:15:09 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG OP|}AYj@oy or /raw PONG OP|}AYj@oy now.
+Nov 12 22:15:12 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 12 22:15:12 2016
+
+**** BEGIN LOGGING AT Wed Nov 16 17:21:26 2016
+
+Nov 16 17:21:26 *	Looking up irc.librairc.net
+Nov 16 17:21:26 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Nov 16 17:21:35 *	Connected. Now logging in.
+Nov 16 17:21:36 *	*** Looking up your hostname...
+Nov 16 17:21:36 *	*** Skipping host resolution (disabled by server administrator)
+Nov 16 17:21:36 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 16 17:21:36 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 16 17:21:36 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG jpl_x\ovrU or /raw PONG jpl_x\ovrU now.
+Nov 16 17:21:36 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 16 17:21:37 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 16 17:21:37 2016
+
+**** BEGIN LOGGING AT Wed Nov 16 17:47:17 2016
+
+Nov 16 17:47:17 *	Looking up irc.librairc.net
+Nov 16 17:47:18 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Nov 16 17:47:18 *	Connected. Now logging in.
+Nov 16 17:47:18 *	*** Looking up your hostname...
+Nov 16 17:47:18 *	*** Skipping host resolution (disabled by server administrator)
+Nov 16 17:47:18 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 16 17:47:18 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 16 17:47:18 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 16 17:47:19 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 16 17:47:19 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ^e\Pt`ApIU or /raw PONG ^e\Pt`ApIU now.
+Nov 16 17:47:19 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 16 17:47:19 2016
+
+**** BEGIN LOGGING AT Thu Nov 17 17:14:33 2016
+
+Nov 17 17:14:33 *	Looking up irc.librairc.net
+Nov 17 17:14:34 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 17 17:14:34 *	Connected. Now logging in.
+Nov 17 17:14:34 *	*** Looking up your hostname...
+Nov 17 17:14:34 *	*** Skipping host resolution (disabled by server administrator)
+Nov 17 17:14:34 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 17 17:14:34 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 17 17:14:34 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 17 17:14:35 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 17 17:14:35 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ]YaeFxWQyc or /raw PONG ]YaeFxWQyc now.
+Nov 17 17:14:35 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Nov 17 17:14:35 2016
+
+**** BEGIN LOGGING AT Fri Nov 18 18:34:00 2016
+
+Nov 18 18:34:00 *	Looking up irc.librairc.net
+Nov 18 18:34:00 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 18 18:34:00 *	Connected. Now logging in.
+Nov 18 18:34:01 *	*** Looking up your hostname...
+Nov 18 18:34:01 *	*** Skipping host resolution (disabled by server administrator)
+Nov 18 18:34:01 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 18 18:34:01 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 18 18:34:01 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 18 18:34:01 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 18 18:34:02 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG e^NMb|HDqZ or /raw PONG e^NMb|HDqZ now.
+Nov 18 18:34:02 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Nov 18 18:34:02 2016
+
+**** BEGIN LOGGING AT Sat Nov 19 15:56:49 2016
+
+Nov 19 15:56:49 *	Looking up irc.librairc.net
+Nov 19 15:56:50 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 19 15:56:50 *	Connected. Now logging in.
+Nov 19 15:56:50 *	*** Looking up your hostname...
+Nov 19 15:56:50 *	*** Skipping host resolution (disabled by server administrator)
+Nov 19 15:56:50 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 19 15:56:50 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 19 15:56:51 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 19 15:56:51 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 19 15:56:51 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG SOTmHaqONA or /raw PONG SOTmHaqONA now.
+Nov 19 15:56:52 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 19 15:56:52 2016
+
+**** BEGIN LOGGING AT Sat Nov 19 15:57:23 2016
+
+Nov 19 15:57:23 *	Looking up irc.librairc.net
+Nov 19 15:57:23 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 19 15:57:24 *	Connected. Now logging in.
+Nov 19 15:57:24 *	*** Looking up your hostname...
+Nov 19 15:57:24 *	*** Skipping host resolution (disabled by server administrator)
+Nov 19 15:57:24 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 19 15:57:24 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 19 15:57:24 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 19 15:57:25 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 19 15:57:25 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Nov 19 15:57:25 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG rITyeaUNeK or /raw PONG rITyeaUNeK now.
+Nov 19 15:57:27 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Nov 19 15:57:27 2016
+
+**** BEGIN LOGGING AT Sun Nov 20 15:57:44 2016
+
+Nov 20 15:57:44 *	Looking up irc.librairc.net
+Nov 20 15:57:44 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 20 15:57:44 *	Connected. Now logging in.
+Nov 20 15:57:44 *	*** Looking up your hostname...
+Nov 20 15:57:44 *	*** Skipping host resolution (disabled by server administrator)
+Nov 20 15:57:45 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 20 15:57:45 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 20 15:57:45 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 20 15:57:45 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 20 15:57:45 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG QckmNRHi|U or /raw PONG QckmNRHi|U now.
+Nov 20 15:57:46 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Nov 20 15:57:46 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:33:03 2016
+
+Nov 22 20:33:03 *	Looking up irc.librairc.net
+Nov 22 20:33:15 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:33:25 Cycling to next server in LibraIRC...
+Nov 22 20:33:25 *	Disconnected ()
+**** ENDING LOGGING AT Tue Nov 22 20:33:25 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:33:25 2016
+
+Nov 22 20:33:25 *	Looking up irc.librairc.net
+Nov 22 20:33:37 *	Unknown host. Maybe you misspelled it?
+**** ENDING LOGGING AT Tue Nov 22 20:33:40 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:33:45 2016
+
+Nov 22 20:33:45 *	Looking up irc.librairc.net
+Nov 22 20:33:57 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:34:07 Cycling to next server in LibraIRC...
+Nov 22 20:34:07 *	Disconnected ()
+**** ENDING LOGGING AT Tue Nov 22 20:34:07 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:34:07 2016
+
+Nov 22 20:34:07 *	Looking up irc.librairc.net
+**** ENDING LOGGING AT Tue Nov 22 20:34:14 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:37:10 2016
+
+Nov 22 20:37:10 *	Looking up irc.librairc.net
+Nov 22 20:37:10 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:37:20 Cycling to next server in LibraIRC...
+Nov 22 20:37:20 *	Disconnected ()
+**** ENDING LOGGING AT Tue Nov 22 20:37:20 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:37:20 2016
+
+Nov 22 20:37:20 *	Looking up irc.librairc.net
+Nov 22 20:37:26 Update Checker plugin unloaded
+Nov 22 20:37:26 Do At plugin unloaded
+**** ENDING LOGGING AT Tue Nov 22 20:37:26 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:37:50 2016
+
+Nov 22 20:37:50 *	Looking up irc.librairc.net
+Nov 22 20:38:02 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:38:05 Update Checker plugin unloaded
+Nov 22 20:38:05 Do At plugin unloaded
+**** ENDING LOGGING AT Tue Nov 22 20:38:05 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:39:16 2016
+
+Nov 22 20:39:16 *	Looking up irc.librairc.net
+Nov 22 20:39:28 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:39:38 Cycling to next server in LibraIRC...
+Nov 22 20:39:38 *	Disconnected ()
+**** ENDING LOGGING AT Tue Nov 22 20:39:38 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:39:38 2016
+
+Nov 22 20:39:38 *	Looking up irc.librairc.net
+Nov 22 20:39:50 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:40:00 Cycling to next server in LibraIRC...
+Nov 22 20:40:00 *	Disconnected ()
+**** ENDING LOGGING AT Tue Nov 22 20:40:00 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:40:00 2016
+
+Nov 22 20:40:00 *	Looking up irc.librairc.net
+Nov 22 20:40:12 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:40:22 Update Checker plugin unloaded
+Nov 22 20:40:22 Do At plugin unloaded
+**** ENDING LOGGING AT Tue Nov 22 20:40:22 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:40:47 2016
+
+Nov 22 20:40:47 *	Looking up irc.librairc.net
+Nov 22 20:40:59 *	Unknown host. Maybe you misspelled it?
+Nov 22 20:41:05 Update Checker plugin unloaded
+Nov 22 20:41:05 Do At plugin unloaded
+**** ENDING LOGGING AT Tue Nov 22 20:41:05 2016
+
+**** BEGIN LOGGING AT Tue Nov 22 20:46:11 2016
+
+Nov 22 20:46:11 *	Looking up irc.librairc.net
+Nov 22 20:46:11 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 22 20:46:11 *	Connected. Now logging in.
+Nov 22 20:46:11 *	*** Looking up your hostname...
+Nov 22 20:46:11 *	*** Skipping host resolution (disabled by server administrator)
+Nov 22 20:46:12 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 22 20:46:12 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 22 20:46:12 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 22 20:46:12 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 22 20:46:12 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG |FXtURc}qp or /raw PONG |FXtURc}qp now.
+Nov 22 20:46:13 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Nov 22 20:46:13 2016
+
+**** BEGIN LOGGING AT Sun Nov 27 16:42:10 2016
+
+Nov 27 16:42:10 *	Looking up irc.librairc.net
+Nov 27 16:42:10 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 27 16:42:10 *	Connected. Now logging in.
+Nov 27 16:42:10 *	*** Looking up your hostname...
+Nov 27 16:42:10 *	*** Skipping host resolution (disabled by server administrator)
+Nov 27 16:42:11 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 27 16:42:11 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 27 16:42:11 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 27 16:42:11 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 27 16:42:11 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ]wukFYPy[g or /raw PONG ]wukFYPy[g now.
+Nov 27 16:42:12 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Nov 27 16:42:12 2016
+
+**** BEGIN LOGGING AT Tue Nov 29 23:06:49 2016
+
+Nov 29 23:06:49 *	Looking up irc.librairc.net
+Nov 29 23:06:50 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 29 23:06:50 *	Connected. Now logging in.
+Nov 29 23:06:50 *	*** Looking up your hostname...
+Nov 29 23:06:50 *	*** Skipping host resolution (disabled by server administrator)
+Nov 29 23:06:51 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 29 23:06:51 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 29 23:06:51 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 29 23:06:51 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 29 23:06:52 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG fWQBbl|CBS or /raw PONG fWQBbl|CBS now.
+Nov 29 23:06:53 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Nov 29 23:06:53 2016
+
+**** BEGIN LOGGING AT Wed Nov 30 01:03:18 2016
+
+Nov 30 01:03:18 *	Looking up irc.librairc.net
+Nov 30 01:03:18 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 30 01:03:18 *	Connected. Now logging in.
+Nov 30 01:03:19 *	*** Looking up your hostname...
+Nov 30 01:03:19 *	*** Skipping host resolution (disabled by server administrator)
+Nov 30 01:03:19 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 30 01:03:19 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 30 01:03:19 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG I]DNH~@NCX or /raw PONG I]DNH~@NCX now.
+Nov 30 01:03:19 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 30 01:03:20 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 30 01:03:20 2016
+
+**** BEGIN LOGGING AT Wed Nov 30 01:03:30 2016
+
+Nov 30 01:03:30 *	Looking up irc.librairc.net
+Nov 30 01:03:30 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 30 01:03:31 *	Connected. Now logging in.
+Nov 30 01:03:31 *	*** Looking up your hostname...
+Nov 30 01:03:31 *	*** Skipping host resolution (disabled by server administrator)
+Nov 30 01:03:31 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 30 01:03:31 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 30 01:03:31 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 30 01:03:31 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 30 01:03:32 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG aOyX?EWrY? or /raw PONG aOyX?EWrY? now.
+Nov 30 01:03:32 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 30 01:03:32 2016
+
+**** BEGIN LOGGING AT Wed Nov 30 14:46:08 2016
+
+Nov 30 14:46:08 *	Looking up irc.librairc.net
+Nov 30 14:46:08 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 30 14:46:08 *	Connected. Now logging in.
+Nov 30 14:46:08 *	*** Looking up your hostname...
+Nov 30 14:46:08 *	*** Skipping host resolution (disabled by server administrator)
+Nov 30 14:46:09 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 30 14:46:09 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 30 14:46:09 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 30 14:46:09 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 30 14:46:09 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG koWywAf}P~ or /raw PONG koWywAf}P~ now.
+Nov 30 14:46:10 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 30 14:46:10 2016
+
+**** BEGIN LOGGING AT Wed Nov 30 16:49:42 2016
+
+Nov 30 16:49:42 *	Looking up irc.librairc.net
+Nov 30 16:49:46 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 30 16:49:47 *	Connected. Now logging in.
+Nov 30 16:49:47 *	*** Looking up your hostname...
+Nov 30 16:49:47 *	*** Skipping host resolution (disabled by server administrator)
+Nov 30 16:49:47 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 30 16:49:47 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 30 16:49:47 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG fVumoKEtVh or /raw PONG fVumoKEtVh now.
+Nov 30 16:49:48 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 30 16:49:48 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 30 16:49:48 2016
+
+**** BEGIN LOGGING AT Wed Nov 30 16:50:14 2016
+
+Nov 30 16:50:14 *	Looking up irc.librairc.net
+Nov 30 16:50:14 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 30 16:50:15 *	Connected. Now logging in.
+Nov 30 16:50:15 *	*** Looking up your hostname...
+Nov 30 16:50:15 *	*** Skipping host resolution (disabled by server administrator)
+Nov 30 16:50:15 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 30 16:50:15 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 30 16:50:15 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 30 16:50:16 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 30 16:50:16 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG LeeNhdhcKx or /raw PONG LeeNhdhcKx now.
+Nov 30 16:50:16 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 30 16:50:16 2016
+
+**** BEGIN LOGGING AT Wed Nov 30 17:06:40 2016
+
+Nov 30 17:06:40 *	Looking up irc.librairc.net
+Nov 30 17:06:40 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Nov 30 17:06:40 *	Connected. Now logging in.
+Nov 30 17:06:40 *	*** Looking up your hostname...
+Nov 30 17:06:40 *	*** Skipping host resolution (disabled by server administrator)
+Nov 30 17:06:41 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 30 17:06:41 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 30 17:06:41 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Nov 30 17:06:41 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 30 17:06:42 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG LjRRAemjSR or /raw PONG LjRRAemjSR now.
+Nov 30 17:06:42 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 30 17:06:42 2016
+
+**** BEGIN LOGGING AT Wed Nov 30 17:09:41 2016
+
+Nov 30 17:09:41 *	Looking up irc.librairc.net
+Nov 30 17:09:41 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Nov 30 17:09:42 *	Connected. Now logging in.
+Nov 30 17:09:42 *	*** Looking up your hostname...
+Nov 30 17:09:42 *	*** Skipping host resolution (disabled by server administrator)
+Nov 30 17:09:42 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Nov 30 17:09:42 *	Capabilities requested: multi-prefix userhost-in-names 
+Nov 30 17:09:42 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Hq[wJPNynM or /raw PONG Hq[wJPNynM now.
+Nov 30 17:09:42 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Nov 30 17:09:44 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Nov 30 17:09:44 2016
+
+**** BEGIN LOGGING AT Fri Dec  2 18:31:21 2016
+
+Dec 02 18:31:21 *	Looking up irc.librairc.net
+Dec 02 18:31:21 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Dec 02 18:31:22 *	Connected. Now logging in.
+Dec 02 18:31:22 *	*** Looking up your hostname...
+Dec 02 18:31:22 *	*** Skipping host resolution (disabled by server administrator)
+Dec 02 18:31:22 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 02 18:31:22 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 02 18:31:22 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 02 18:31:22 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 02 18:31:23 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG hV^PclRawK or /raw PONG hV^PclRawK now.
+Dec 02 18:31:24 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Dec  2 18:31:24 2016
+
+**** BEGIN LOGGING AT Sat Dec 17 23:55:19 2016
+
+Dec 17 23:55:19 *	Looking up irc.librairc.net
+Dec 17 23:55:19 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 17 23:55:19 *	Connected. Now logging in.
+Dec 17 23:55:19 *	*** Looking up your hostname...
+Dec 17 23:55:19 *	*** Skipping host resolution (disabled by server administrator)
+Dec 17 23:55:20 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 17 23:55:20 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 17 23:55:20 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 17 23:55:20 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 17 23:55:20 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG cm[BxIao^c or /raw PONG cm[BxIao^c now.
+Dec 17 23:55:22 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Dec 17 23:55:22 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 14:55:12 2016
+
+Dec 18 14:55:12 *	Looking up irc.librairc.net
+Dec 18 14:55:12 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Dec 18 14:55:13 *	Connected. Now logging in.
+Dec 18 14:55:13 *	*** Looking up your hostname...
+Dec 18 14:55:13 *	*** Skipping host resolution (disabled by server administrator)
+Dec 18 14:55:13 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 18 14:55:13 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 18 14:55:14 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 18 14:55:14 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 18 14:55:14 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG co\P{kx_VK or /raw PONG co\P{kx_VK now.
+Dec 18 14:55:15 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Dec 18 14:55:15 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 15:01:17 2016
+
+Dec 18 15:01:17 *	Looking up irc.librairc.net
+Dec 18 15:01:17 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 18 15:01:17 *	Connected. Now logging in.
+Dec 18 15:01:17 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Dec 18 15:01:17 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sun Dec 18 15:01:26 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 15:04:40 2016
+
+Dec 18 15:04:40 *	Looking up irc.librairc.net
+Dec 18 15:04:41 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 18 15:04:41 *	Connected. Now logging in.
+Dec 18 15:04:41 *	*** Looking up your hostname...
+Dec 18 15:04:41 *	*** Skipping host resolution (disabled by server administrator)
+Dec 18 15:04:42 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 18 15:04:42 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 18 15:04:42 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG k\\k]W@Kkh or /raw PONG k\\k]W@Kkh now.
+Dec 18 15:04:42 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 18 15:04:43 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Dec 18 15:04:43 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 15:04:55 2016
+
+Dec 18 15:04:55 *	Looking up irc.librairc.net
+Dec 18 15:04:55 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 18 15:04:55 *	Connected. Now logging in.
+Dec 18 15:04:55 *	*** Looking up your hostname...
+Dec 18 15:04:55 *	*** Skipping host resolution (disabled by server administrator)
+Dec 18 15:04:56 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 18 15:04:56 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 18 15:04:56 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 18 15:04:56 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 18 15:04:56 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ^f?`yIXyqJ or /raw PONG ^f?`yIXyqJ now.
+Dec 18 15:04:57 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Dec 18 15:04:57 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 16:07:37 2016
+
+Dec 18 16:07:37 *	Looking up irc.librairc.net
+Dec 18 16:07:37 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Dec 18 16:07:37 *	Connected. Now logging in.
+Dec 18 16:07:38 *	*** Looking up your hostname...
+Dec 18 16:07:38 *	*** Skipping host resolution (disabled by server administrator)
+Dec 18 16:07:38 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 18 16:07:38 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 18 16:07:38 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 18 16:07:39 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 18 16:07:39 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Dec 18 16:07:39 *	Nickname is erroneous or already in use. Use /NICK to try another.
+Dec 18 16:07:48 *	Closing link: (RammsteinFa@157.49.163.7) [Registration timeout]
+Dec 18 16:07:48 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sun Dec 18 16:07:50 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 16:08:22 2016
+
+Dec 18 16:08:22 *	Looking up irc.librairc.net
+Dec 18 16:08:32 *	Unknown host. Maybe you misspelled it?
+Dec 18 16:08:42 Cycling to next server in LibraIRC...
+Dec 18 16:08:42 *	Disconnected ()
+**** ENDING LOGGING AT Sun Dec 18 16:08:42 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 16:08:42 2016
+
+Dec 18 16:08:42 *	Looking up irc.librairc.net
+Dec 18 16:08:49 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Dec 18 16:08:49 *	Connected. Now logging in.
+Dec 18 16:08:49 *	*** Looking up your hostname...
+Dec 18 16:08:49 *	*** Skipping host resolution (disabled by server administrator)
+Dec 18 16:08:49 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 18 16:08:49 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 18 16:08:49 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 18 16:08:50 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 18 16:08:50 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG McRMPs@CoA or /raw PONG McRMPs@CoA now.
+Dec 18 16:08:52 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Dec 18 16:08:52 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 16:12:14 2016
+
+Dec 18 16:12:14 *	Looking up irc.librairc.net
+Dec 18 16:12:14 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Dec 18 16:12:14 *	Connected. Now logging in.
+Dec 18 16:12:14 *	*** Looking up your hostname...
+Dec 18 16:12:14 *	*** Skipping host resolution (disabled by server administrator)
+Dec 18 16:12:15 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 18 16:12:15 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 18 16:12:15 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Q[M_pL^ru\ or /raw PONG Q[M_pL^ru\ now.
+Dec 18 16:12:15 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 18 16:12:16 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Dec 18 16:12:16 2016
+
+**** BEGIN LOGGING AT Sun Dec 18 16:12:32 2016
+
+Dec 18 16:12:32 *	Looking up irc.librairc.net
+Dec 18 16:12:32 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Dec 18 16:12:32 *	Connected. Now logging in.
+Dec 18 16:12:32 *	*** Looking up your hostname...
+Dec 18 16:12:32 *	*** Skipping host resolution (disabled by server administrator)
+Dec 18 16:12:33 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 18 16:12:33 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 18 16:12:33 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 18 16:12:33 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 18 16:12:33 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Dec 18 16:12:33 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG KxaJ?oBo`J or /raw PONG KxaJ?oBo`J now.
+Dec 18 16:12:36 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Dec 18 16:12:36 2016
+
+**** BEGIN LOGGING AT Mon Dec 19 17:20:21 2016
+
+Dec 19 17:20:21 *	Looking up irc.librairc.net
+Dec 19 17:20:21 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 19 17:20:22 *	Connected. Now logging in.
+Dec 19 17:20:22 *	*** Looking up your hostname...
+Dec 19 17:20:22 *	*** Skipping host resolution (disabled by server administrator)
+Dec 19 17:20:22 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 19 17:20:22 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 19 17:20:22 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 19 17:20:22 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 19 17:20:23 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG D~fEdWjSxz or /raw PONG D~fEdWjSxz now.
+Dec 19 17:20:23 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon Dec 19 17:20:23 2016
+
+**** BEGIN LOGGING AT Mon Dec 19 19:18:21 2016
+
+Dec 19 19:18:21 *	Looking up irc.librairc.net
+Dec 19 19:18:21 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 19 19:18:21 *	Connected. Now logging in.
+Dec 19 19:18:21 *	*** Looking up your hostname...
+Dec 19 19:18:21 *	*** Skipping host resolution (disabled by server administrator)
+Dec 19 19:18:21 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 19 19:18:21 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 19 19:18:21 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 19 19:18:22 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 19 19:18:22 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG \jH}TPbbxt or /raw PONG \jH}TPbbxt now.
+Dec 19 19:18:22 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon Dec 19 19:18:22 2016
+
+**** BEGIN LOGGING AT Tue Dec 20 00:00:26 2016
+
+Dec 20 00:00:26 *	Looking up irc.librairc.net
+Dec 20 00:00:26 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 20 00:00:27 *	Connected. Now logging in.
+Dec 20 00:00:27 *	*** Looking up your hostname...
+Dec 20 00:00:27 *	*** Skipping host resolution (disabled by server administrator)
+Dec 20 00:00:27 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 20 00:00:27 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 20 00:00:27 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 20 00:00:27 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 20 00:00:28 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG vAinSw~cTs or /raw PONG vAinSw~cTs now.
+Dec 20 00:00:29 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Dec 20 00:00:29 2016
+
+**** BEGIN LOGGING AT Wed Dec 21 01:31:48 2016
+
+Dec 21 01:31:48 No channel joined. Try /join #<channel>
+Dec 21 01:31:58 *	Disconnected ()
+**** ENDING LOGGING AT Wed Dec 21 01:31:58 2016
+
+**** BEGIN LOGGING AT Wed Dec 21 19:34:52 2016
+
+Dec 21 19:34:52 *	Looking up irc.librairc.net
+Dec 21 19:34:53 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 21 19:34:53 *	Connected. Now logging in.
+Dec 21 19:34:53 *	*** Looking up your hostname...
+Dec 21 19:34:53 *	*** Skipping host resolution (disabled by server administrator)
+Dec 21 19:34:53 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 21 19:34:53 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 21 19:34:54 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 21 19:34:54 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 21 19:34:54 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG khANueZjRf or /raw PONG khANueZjRf now.
+Dec 21 19:34:55 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Dec 21 19:34:55 2016
+
+**** BEGIN LOGGING AT Wed Dec 21 20:25:18 2016
+
+Dec 21 20:25:18 *	Looking up irc.librairc.net
+Dec 21 20:25:18 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Dec 21 20:25:18 *	Connected. Now logging in.
+Dec 21 20:25:18 *	*** Looking up your hostname...
+Dec 21 20:25:18 *	*** Skipping host resolution (disabled by server administrator)
+Dec 21 20:25:19 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 21 20:25:19 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 21 20:25:19 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 21 20:25:19 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 21 20:25:20 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG sTgiFoGaU[ or /raw PONG sTgiFoGaU[ now.
+Dec 21 20:25:21 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Dec 21 20:25:21 2016
+
+**** BEGIN LOGGING AT Wed Dec 21 20:32:16 2016
+
+Dec 21 20:32:16 *	Looking up irc.librairc.net
+Dec 21 20:32:16 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Dec 21 20:32:16 *	Connected. Now logging in.
+Dec 21 20:32:17 *	*** Looking up your hostname...
+Dec 21 20:32:17 *	*** Skipping host resolution (disabled by server administrator)
+Dec 21 20:32:17 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 21 20:32:17 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 21 20:32:17 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 21 20:32:18 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 21 20:32:18 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG `i@IVY]^|f or /raw PONG `i@IVY]^|f now.
+Dec 21 20:32:19 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Dec 21 20:32:19 2016
+
+**** BEGIN LOGGING AT Thu Dec 22 20:12:17 2016
+
+Dec 22 20:12:17 *	Looking up irc.librairc.net
+Dec 22 20:12:17 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 22 20:12:17 *	Connected. Now logging in.
+Dec 22 20:12:17 *	*** Looking up your hostname...
+Dec 22 20:12:17 *	*** Skipping host resolution (disabled by server administrator)
+Dec 22 20:12:17 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 22 20:12:17 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 22 20:12:18 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 22 20:12:18 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 22 20:12:18 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG xi_wH`\nfj or /raw PONG xi_wH`\nfj now.
+Dec 22 20:12:19 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Dec 22 20:12:19 2016
+
+**** BEGIN LOGGING AT Sat Dec 24 01:06:59 2016
+
+Dec 24 01:06:59 *	Looking up irc.librairc.net
+Dec 24 01:06:59 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Dec 24 01:06:59 *	Connected. Now logging in.
+Dec 24 01:06:59 *	*** Looking up your hostname...
+Dec 24 01:06:59 *	*** Skipping host resolution (disabled by server administrator)
+Dec 24 01:07:00 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 24 01:07:00 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 24 01:07:00 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 24 01:07:00 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 24 01:07:00 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ZoiQ`eh_ym or /raw PONG ZoiQ`eh_ym now.
+Dec 24 01:07:01 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Dec 24 01:07:01 2016
+
+**** BEGIN LOGGING AT Sat Dec 24 22:41:32 2016
+
+Dec 24 22:41:32 *	Looking up irc.librairc.net
+Dec 24 22:41:32 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 24 22:41:33 *	Connected. Now logging in.
+Dec 24 22:41:33 *	*** Looking up your hostname...
+Dec 24 22:41:33 *	*** Skipping host resolution (disabled by server administrator)
+Dec 24 22:41:33 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 24 22:41:33 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 24 22:41:33 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 24 22:41:33 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 24 22:41:34 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG v_iEKENado or /raw PONG v_iEKENado now.
+Dec 24 22:41:35 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Dec 24 22:41:35 2016
+
+**** BEGIN LOGGING AT Sat Dec 24 23:12:13 2016
+
+Dec 24 23:12:13 *	Looking up irc.librairc.net
+Dec 24 23:12:13 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 24 23:12:14 *	Connected. Now logging in.
+Dec 24 23:12:14 *	*** Looking up your hostname...
+Dec 24 23:12:14 *	*** Skipping host resolution (disabled by server administrator)
+Dec 24 23:12:14 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 24 23:12:14 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 24 23:12:14 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 24 23:12:14 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 24 23:12:15 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG AYDS~lu?K@ or /raw PONG AYDS~lu?K@ now.
+Dec 24 23:12:16 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Dec 24 23:12:16 2016
+
+**** BEGIN LOGGING AT Tue Dec 27 00:50:29 2016
+
+Dec 27 00:50:29 *	Looking up irc.librairc.net
+Dec 27 00:50:29 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Dec 27 00:50:30 *	Connected. Now logging in.
+Dec 27 00:50:30 *	*** Looking up your hostname...
+Dec 27 00:50:30 *	*** Skipping host resolution (disabled by server administrator)
+Dec 27 00:50:30 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 27 00:50:30 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 27 00:50:30 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 27 00:50:30 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 27 00:50:31 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG oLBrAvUrlA or /raw PONG oLBrAvUrlA now.
+Dec 27 00:50:31 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Dec 27 00:50:31 2016
+
+**** BEGIN LOGGING AT Tue Dec 27 01:15:36 2016
+
+Dec 27 01:15:36 *	Looking up irc.librairc.net
+Dec 27 01:15:36 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Dec 27 01:15:36 *	Connected. Now logging in.
+Dec 27 01:15:36 *	*** Looking up your hostname...
+Dec 27 01:15:36 *	*** Skipping host resolution (disabled by server administrator)
+Dec 27 01:15:37 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 27 01:15:37 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 27 01:15:37 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 27 01:15:37 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 27 01:15:38 *	DjAmmo is already in use. Retrying with NeoAndersen...
+Dec 27 01:15:38 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG __Bb`S[?kM or /raw PONG __Bb`S[?kM now.
+Dec 27 01:15:39 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Dec 27 01:15:39 2016
+
+**** BEGIN LOGGING AT Wed Dec 28 01:28:59 2016
+
+Dec 28 01:28:59 *	Looking up irc.librairc.net
+Dec 28 01:28:59 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 28 01:29:00 *	Connected. Now logging in.
+Dec 28 01:29:00 *	*** Looking up your hostname...
+Dec 28 01:29:00 *	*** Skipping host resolution (disabled by server administrator)
+Dec 28 01:29:00 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 28 01:29:00 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 28 01:29:00 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 28 01:29:01 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 28 01:29:01 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Mq^AkJbGKy or /raw PONG Mq^AkJbGKy now.
+Dec 28 01:29:02 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Dec 28 01:29:02 2016
+
+**** BEGIN LOGGING AT Sat Dec 31 01:02:08 2016
+
+Dec 31 01:02:08 *	Looking up irc.librairc.net
+Dec 31 01:02:08 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Dec 31 01:02:08 *	Connected. Now logging in.
+Dec 31 01:02:09 *	*** Looking up your hostname...
+Dec 31 01:02:09 *	*** Skipping host resolution (disabled by server administrator)
+Dec 31 01:02:09 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 31 01:02:09 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 31 01:02:09 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 31 01:02:09 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 31 01:02:10 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG bhfUA?PMYM or /raw PONG bhfUA?PMYM now.
+Dec 31 01:02:11 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Dec 31 01:02:11 2016
+
+**** BEGIN LOGGING AT Sat Dec 31 03:46:15 2016
+
+Dec 31 03:46:16 *	Looking up irc.librairc.net
+Dec 31 03:46:16 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Dec 31 03:46:16 *	Connected. Now logging in.
+Dec 31 03:46:16 *	*** Looking up your hostname...
+Dec 31 03:46:16 *	*** Skipping host resolution (disabled by server administrator)
+Dec 31 03:46:16 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Dec 31 03:46:16 *	Capabilities requested: multi-prefix userhost-in-names 
+Dec 31 03:46:17 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Dec 31 03:46:17 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Dec 31 03:46:17 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG hdvOGzueBd or /raw PONG hdvOGzueBd now.
+Dec 31 03:46:18 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Dec 31 03:46:18 2016
+
+**** BEGIN LOGGING AT Thu Jan  5 00:53:30 2017
+
+Jan 05 00:53:30 *	Looking up irc.librairc.net
+Jan 05 00:53:30 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 05 00:53:30 *	Connected. Now logging in.
+Jan 05 00:53:30 *	*** Looking up your hostname...
+Jan 05 00:53:30 *	*** Skipping host resolution (disabled by server administrator)
+Jan 05 00:53:31 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 05 00:53:31 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 05 00:53:31 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 05 00:53:31 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 05 00:53:32 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ?uY~QHIOCA or /raw PONG ?uY~QHIOCA now.
+Jan 05 00:53:32 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Jan  5 00:53:32 2017
+
+**** BEGIN LOGGING AT Sat Jan  7 17:23:49 2017
+
+Jan 07 17:23:49 *	Looking up irc.librairc.net
+Jan 07 17:23:49 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 07 17:23:49 *	Connected. Now logging in.
+Jan 07 17:23:50 *	*** Looking up your hostname...
+Jan 07 17:23:50 *	*** Skipping host resolution (disabled by server administrator)
+Jan 07 17:23:50 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 07 17:23:50 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 07 17:23:50 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 07 17:23:51 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 07 17:23:51 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ]VLRS\tI`W or /raw PONG ]VLRS\tI`W now.
+Jan 07 17:23:52 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Jan  7 17:23:52 2017
+
+**** BEGIN LOGGING AT Mon Jan  9 02:36:30 2017
+
+Jan 09 02:36:30 *	Looking up irc.librairc.net
+Jan 09 02:36:30 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Jan 09 02:36:30 *	Connected. Now logging in.
+Jan 09 02:36:30 *	*** Looking up your hostname...
+Jan 09 02:36:30 *	*** Skipping host resolution (disabled by server administrator)
+Jan 09 02:36:31 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 09 02:36:31 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 09 02:36:31 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 09 02:36:31 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 09 02:36:31 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG gmVMk|jJ\~ or /raw PONG gmVMk|jJ\~ now.
+Jan 09 02:36:36 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon Jan  9 02:36:36 2017
+
+**** BEGIN LOGGING AT Fri Jan 13 19:46:04 2017
+
+Jan 13 19:46:04 *	Looking up irc.librairc.net
+Jan 13 19:46:04 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 13 19:46:05 *	Connected. Now logging in.
+Jan 13 19:46:05 *	*** Looking up your hostname...
+Jan 13 19:46:05 *	*** Skipping host resolution (disabled by server administrator)
+Jan 13 19:46:05 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 13 19:46:05 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 13 19:46:05 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 13 19:46:05 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 13 19:46:06 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ~w\}t@PUme or /raw PONG ~w\}t@PUme now.
+Jan 13 19:46:06 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Jan 13 19:46:06 2017
+
+**** BEGIN LOGGING AT Tue Jan 17 02:21:17 2017
+
+Jan 17 02:21:17 *	Looking up irc.librairc.net
+Jan 17 02:21:17 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 17 02:21:17 *	Connected. Now logging in.
+Jan 17 02:21:18 *	*** Looking up your hostname...
+Jan 17 02:21:18 *	*** Skipping host resolution (disabled by server administrator)
+Jan 17 02:21:18 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 17 02:21:18 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 17 02:21:18 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 17 02:21:18 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 17 02:21:19 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG @qdqwBo{rm or /raw PONG @qdqwBo{rm now.
+Jan 17 02:21:19 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Jan 17 02:21:19 2017
+
+**** BEGIN LOGGING AT Sat Jan 21 05:32:10 2017
+
+Jan 21 05:32:10 *	Looking up irc.librairc.net
+Jan 21 05:32:10 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 21 05:32:10 *	Connected. Now logging in.
+Jan 21 05:32:10 *	*** Looking up your hostname...
+Jan 21 05:32:10 *	*** Skipping host resolution (disabled by server administrator)
+Jan 21 05:32:10 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 21 05:32:10 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 21 05:32:11 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 21 05:32:11 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 21 05:32:11 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG [|aiLqTkLf or /raw PONG [|aiLqTkLf now.
+Jan 21 05:32:12 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Jan 21 05:32:12 2017
+
+**** BEGIN LOGGING AT Tue Jan 24 04:59:36 2017
+
+Jan 24 04:59:36 *	Looking up irc.librairc.net
+Jan 24 04:59:36 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 24 04:59:36 *	Connected. Now logging in.
+Jan 24 04:59:36 *	*** Looking up your hostname...
+Jan 24 04:59:36 *	*** Skipping host resolution (disabled by server administrator)
+Jan 24 04:59:37 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 24 04:59:37 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 24 04:59:37 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 24 04:59:37 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 24 04:59:37 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG kMxovVu[cV or /raw PONG kMxovVu[cV now.
+Jan 24 04:59:39 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Jan 24 04:59:39 2017
+
+**** BEGIN LOGGING AT Tue Jan 24 05:01:17 2017
+
+Jan 24 05:01:17 *	Looking up irc.librairc.net
+Jan 24 05:01:17 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 24 05:01:17 *	Connected. Now logging in.
+Jan 24 05:01:18 *	*** Looking up your hostname...
+Jan 24 05:01:18 *	*** Skipping host resolution (disabled by server administrator)
+Jan 24 05:01:18 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 24 05:01:18 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 24 05:01:18 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 24 05:01:18 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 24 05:01:18 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG NavHzj@]QW or /raw PONG NavHzj@]QW now.
+Jan 24 05:01:20 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Jan 24 05:01:20 2017
+
+**** BEGIN LOGGING AT Wed Jan 25 04:15:59 2017
+
+Jan 25 04:15:59 *	Looking up irc.librairc.net
+Jan 25 04:15:59 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Jan 25 04:15:59 *	Connected. Now logging in.
+Jan 25 04:16:00 *	*** Looking up your hostname...
+Jan 25 04:16:00 *	*** Skipping host resolution (disabled by server administrator)
+Jan 25 04:16:00 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 25 04:16:00 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 25 04:16:00 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 25 04:16:00 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 25 04:16:00 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG zIurCCLhls or /raw PONG zIurCCLhls now.
+Jan 25 04:16:01 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Jan 25 04:16:01 2017
+
+**** BEGIN LOGGING AT Sat Jan 28 05:45:40 2017
+
+Jan 28 05:45:40 *	Looking up irc.librairc.net
+Jan 28 05:45:40 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Jan 28 05:45:41 *	Connected. Now logging in.
+Jan 28 05:45:41 *	*** Looking up your hostname...
+Jan 28 05:45:41 *	*** Skipping host resolution (disabled by server administrator)
+Jan 28 05:45:41 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Jan 28 05:45:41 *	Capabilities requested: multi-prefix userhost-in-names 
+Jan 28 05:45:41 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Jan 28 05:45:41 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Jan 28 05:45:42 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG `FdNhDsj^I or /raw PONG `FdNhDsj^I now.
+Jan 28 05:45:43 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Jan 28 05:45:43 2017
+
+**** BEGIN LOGGING AT Thu Feb  2 11:06:03 2017
+
+Feb 02 11:06:03 *	Looking up irc.librairc.net
+Feb 02 11:06:03 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 02 11:06:03 *	Connected. Now logging in.
+Feb 02 11:06:03 *	*** Looking up your hostname...
+Feb 02 11:06:03 *	*** Skipping host resolution (disabled by server administrator)
+Feb 02 11:06:03 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 02 11:06:03 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 02 11:06:04 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 02 11:06:04 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 02 11:06:04 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG qP[]ydWnxs or /raw PONG qP[]ydWnxs now.
+Feb 02 11:06:05 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Feb  2 11:06:05 2017
+
+**** BEGIN LOGGING AT Thu Feb  2 11:47:00 2017
+
+Feb 02 11:47:00 *	Looking up irc.librairc.net
+Feb 02 11:47:00 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Feb 02 11:47:00 *	Connected. Now logging in.
+Feb 02 11:47:00 *	*** Looking up your hostname...
+Feb 02 11:47:00 *	*** Skipping host resolution (disabled by server administrator)
+Feb 02 11:47:00 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 02 11:47:00 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 02 11:47:01 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 02 11:47:01 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 02 11:47:01 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ?zQllLeaif or /raw PONG ?zQllLeaif now.
+Feb 02 11:47:02 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Feb  2 11:47:02 2017
+
+**** BEGIN LOGGING AT Thu Feb  2 14:57:34 2017
+
+Feb 02 14:57:35 *	Looking up irc.librairc.net
+Feb 02 14:57:35 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Feb 02 14:57:35 *	Connected. Now logging in.
+Feb 02 14:57:35 *	*** Looking up your hostname...
+Feb 02 14:57:35 *	*** Skipping host resolution (disabled by server administrator)
+Feb 02 14:57:36 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 02 14:57:36 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 02 14:57:36 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 02 14:57:36 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 02 14:57:36 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG i}AhROo]M^ or /raw PONG i}AhROo]M^ now.
+Feb 02 14:57:37 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Feb  2 14:57:37 2017
+
+**** BEGIN LOGGING AT Fri Feb  3 17:49:04 2017
+
+Feb 03 17:49:04 *	Looking up irc.librairc.net
+Feb 03 17:49:04 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 03 17:49:04 *	Connected. Now logging in.
+Feb 03 17:49:05 *	*** Looking up your hostname...
+Feb 03 17:49:05 *	*** Skipping host resolution (disabled by server administrator)
+Feb 03 17:49:05 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 03 17:49:05 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 03 17:49:05 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 03 17:49:06 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 03 17:49:06 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG zDCSLOlboF or /raw PONG zDCSLOlboF now.
+Feb 03 17:49:07 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Feb  3 17:49:07 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 10:13:02 2017
+
+Feb 04 10:13:02 *	Looking up irc.librairc.net
+Feb 04 10:13:02 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Feb 04 10:13:02 *	Connected. Now logging in.
+Feb 04 10:13:03 *	*** Looking up your hostname...
+Feb 04 10:13:03 *	*** Skipping host resolution (disabled by server administrator)
+Feb 04 10:13:03 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 04 10:13:03 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 04 10:13:03 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 04 10:13:03 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 04 10:13:04 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG daHYNDEUW{ or /raw PONG daHYNDEUW{ now.
+Feb 04 10:13:05 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb  4 10:13:05 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 11:54:44 2017
+
+Feb 04 11:54:44 *	Looking up irc.librairc.net
+Feb 04 11:54:44 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 11:54:44 *	Connected. Now logging in.
+Feb 04 11:54:45 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:54:45 *	Disconnected (An established connection was aborted by the software in your host machine)
+Feb 04 11:54:55 Cycling to next server in LibraIRC...
+Feb 04 11:54:55 *	Disconnected ()
+Feb 04 11:54:55 *	Looking up irc.librairc.net
+Feb 04 11:54:55 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 11:54:55 *	Connected. Now logging in.
+Feb 04 11:54:55 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:54:55 *	Disconnected (Remote host closed socket)
+Feb 04 11:55:05 Cycling to next server in LibraIRC...
+Feb 04 11:55:05 *	Disconnected ()
+Feb 04 11:55:05 *	Looking up irc.librairc.net
+Feb 04 11:55:05 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 11:55:05 *	Connected. Now logging in.
+Feb 04 11:55:06 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:55:06 *	Disconnected (An established connection was aborted by the software in your host machine)
+Feb 04 11:55:16 Cycling to next server in LibraIRC...
+Feb 04 11:55:16 *	Disconnected ()
+Feb 04 11:55:16 *	Looking up irc.librairc.net
+Feb 04 11:55:16 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 11:55:16 *	Connected. Now logging in.
+Feb 04 11:55:16 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:55:16 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sat Feb  4 11:55:18 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 11:55:21 2017
+
+Feb 04 11:55:21 *	Looking up irc.librairc.net
+Feb 04 11:55:21 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 11:55:21 *	Connected. Now logging in.
+Feb 04 11:55:21 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:55:21 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sat Feb  4 11:55:28 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 11:55:35 2017
+
+Feb 04 11:55:35 *	Looking up irc.librairc.net
+Feb 04 11:55:35 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 11:55:36 *	Connected. Now logging in.
+Feb 04 11:55:36 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:55:36 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sat Feb  4 11:55:39 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 11:56:04 2017
+
+Feb 04 11:56:04 *	Looking up irc.librairc.net
+Feb 04 11:56:04 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 11:56:04 *	Connected. Now logging in.
+Feb 04 11:56:04 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:56:04 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sat Feb  4 11:56:08 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 11:56:16 2017
+
+Feb 04 11:56:16 *	Looking up irc.librairc.net
+Feb 04 11:56:16 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Feb 04 11:56:16 *	Connected. Now logging in.
+Feb 04 11:56:16 *	Closing link: (unknown@124.125.231.149) [No more connections allowed from your host via this connect class (global)]
+Feb 04 11:56:16 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sat Feb  4 11:56:19 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 11:57:16 2017
+
+Feb 04 11:57:16 *	Looking up irc.librairc.net
+Feb 04 11:57:16 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Feb 04 11:57:16 *	Connected. Now logging in.
+Feb 04 11:57:16 *	*** Looking up your hostname...
+Feb 04 11:57:16 *	*** Skipping host resolution (disabled by server administrator)
+Feb 04 11:57:16 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 04 11:57:16 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 04 11:57:16 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 04 11:57:17 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 04 11:57:17 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG YQIAEjEGDs or /raw PONG YQIAEjEGDs now.
+Feb 04 11:57:17 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb  4 11:57:17 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 13:08:49 2017
+
+Feb 04 13:08:49 *	Looking up irc.librairc.net
+Feb 04 13:08:49 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 13:08:49 *	Connected. Now logging in.
+Feb 04 13:08:50 *	*** Looking up your hostname...
+Feb 04 13:08:50 *	*** Skipping host resolution (disabled by server administrator)
+Feb 04 13:08:50 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 04 13:08:50 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 04 13:08:50 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG [[UK^YLtK[ or /raw PONG [[UK^YLtK[ now.
+Feb 04 13:08:50 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 04 13:08:51 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb  4 13:08:51 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 13:09:44 2017
+
+Feb 04 13:09:44 *	Looking up irc.librairc.net
+Feb 04 13:09:44 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 13:09:45 *	Connected. Now logging in.
+Feb 04 13:09:45 *	*** Looking up your hostname...
+Feb 04 13:09:45 *	*** Skipping host resolution (disabled by server administrator)
+Feb 04 13:09:45 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 04 13:09:45 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 04 13:09:45 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 04 13:09:45 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 04 13:09:46 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG hrmXtcMabI or /raw PONG hrmXtcMabI now.
+Feb 04 13:09:47 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb  4 13:09:47 2017
+
+**** BEGIN LOGGING AT Sat Feb  4 17:47:17 2017
+
+Feb 04 17:47:17 *	Looking up irc.librairc.net
+Feb 04 17:47:17 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 04 17:47:17 *	Connected. Now logging in.
+Feb 04 17:47:17 *	*** Looking up your hostname...
+Feb 04 17:47:17 *	*** Skipping host resolution (disabled by server administrator)
+Feb 04 17:47:17 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 04 17:47:17 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 04 17:47:18 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 04 17:47:18 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 04 17:47:18 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG XDSCNPlQO? or /raw PONG XDSCNPlQO? now.
+Feb 04 17:47:19 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb  4 17:47:19 2017
+
+**** BEGIN LOGGING AT Sun Feb  5 09:52:35 2017
+
+Feb 05 09:52:35 *	Looking up irc.librairc.net
+Feb 05 09:52:36 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Feb 05 09:52:36 *	Connected. Now logging in.
+Feb 05 09:52:36 *	*** Looking up your hostname...
+Feb 05 09:52:36 *	*** Skipping host resolution (disabled by server administrator)
+Feb 05 09:52:37 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 05 09:52:37 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 05 09:52:37 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 05 09:52:37 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 05 09:52:37 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG DSfzBiTJ{i or /raw PONG DSfzBiTJ{i now.
+Feb 05 09:52:38 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Feb  5 09:52:38 2017
+
+**** BEGIN LOGGING AT Sat Feb 18 01:06:20 2017
+
+Feb 18 01:06:20 *	Looking up irc.librairc.net
+Feb 18 01:06:20 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 18 01:06:20 *	Connected. Now logging in.
+Feb 18 01:06:20 *	*** Looking up your hostname...
+Feb 18 01:06:20 *	*** Skipping host resolution (disabled by server administrator)
+Feb 18 01:06:21 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 18 01:06:21 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 18 01:06:21 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 18 01:06:21 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 18 01:06:21 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG aSk]PwCMGs or /raw PONG aSk]PwCMGs now.
+Feb 18 01:06:22 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb 18 01:06:22 2017
+
+**** BEGIN LOGGING AT Mon Feb 20 03:56:00 2017
+
+Feb 20 03:56:00 *	Looking up irc.librairc.net
+Feb 20 03:56:01 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Feb 20 03:56:01 *	Connected. Now logging in.
+Feb 20 03:56:01 *	*** Looking up your hostname...
+Feb 20 03:56:01 *	*** Skipping host resolution (disabled by server administrator)
+Feb 20 03:56:01 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 20 03:56:01 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 20 03:56:02 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 20 03:56:02 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 20 03:56:02 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Rl`a|EhP~J or /raw PONG Rl`a|EhP~J now.
+Feb 20 03:56:03 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon Feb 20 03:56:03 2017
+
+**** BEGIN LOGGING AT Wed Feb 22 00:14:51 2017
+
+Feb 22 00:14:51 *	Looking up irc.librairc.net
+Feb 22 00:14:51 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Feb 22 00:14:52 *	Connected. Now logging in.
+Feb 22 00:14:52 *	*** Looking up your hostname...
+Feb 22 00:14:52 *	*** Skipping host resolution (disabled by server administrator)
+Feb 22 00:14:52 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 22 00:14:52 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 22 00:14:52 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 22 00:14:52 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 22 00:14:53 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Y`iycvMhxX or /raw PONG Y`iycvMhxX now.
+Feb 22 00:14:53 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Feb 22 00:14:53 2017
+
+**** BEGIN LOGGING AT Wed Feb 22 01:00:03 2017
+
+Feb 22 01:00:03 *	Looking up irc.librairc.net
+Feb 22 01:00:03 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Feb 22 01:00:03 *	Connected. Now logging in.
+Feb 22 01:00:03 *	*** Looking up your hostname...
+Feb 22 01:00:03 *	*** Skipping host resolution (disabled by server administrator)
+Feb 22 01:00:04 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 22 01:00:04 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 22 01:00:04 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG `}RbHOT]bV or /raw PONG `}RbHOT]bV now.
+Feb 22 01:00:04 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 22 01:00:05 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Feb 22 01:00:05 2017
+
+**** BEGIN LOGGING AT Wed Feb 22 01:00:12 2017
+
+Feb 22 01:00:12 *	Looking up irc.librairc.net
+Feb 22 01:00:12 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Feb 22 01:00:12 *	Connected. Now logging in.
+Feb 22 01:00:13 *	*** Looking up your hostname...
+Feb 22 01:00:13 *	*** Skipping host resolution (disabled by server administrator)
+Feb 22 01:00:13 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 22 01:00:13 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 22 01:00:13 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 22 01:00:13 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 22 01:00:14 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG _@exE~gY}I or /raw PONG _@exE~gY}I now.
+Feb 22 01:00:15 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Feb 22 01:00:15 2017
+
+**** BEGIN LOGGING AT Wed Feb 22 16:02:02 2017
+
+Feb 22 16:02:02 *	Looking up irc.librairc.net
+Feb 22 16:02:02 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Feb 22 16:02:02 *	Connected. Now logging in.
+Feb 22 16:02:02 *	*** Looking up your hostname...
+Feb 22 16:02:02 *	*** Skipping host resolution (disabled by server administrator)
+Feb 22 16:02:03 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 22 16:02:03 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 22 16:02:03 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 22 16:02:03 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 22 16:02:03 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG tbQosyPl@d or /raw PONG tbQosyPl@d now.
+Feb 22 16:02:04 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Feb 22 16:02:04 2017
+
+**** BEGIN LOGGING AT Sat Feb 25 10:07:45 2017
+
+Feb 25 10:07:45 *	Looking up irc.librairc.net
+Feb 25 10:07:45 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Feb 25 10:07:45 *	Connected. Now logging in.
+Feb 25 10:07:45 *	*** Looking up your hostname...
+Feb 25 10:07:45 *	*** Skipping host resolution (disabled by server administrator)
+Feb 25 10:07:46 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 25 10:07:46 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 25 10:07:46 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 25 10:07:46 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 25 10:07:46 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG VakOmjFqkB or /raw PONG VakOmjFqkB now.
+Feb 25 10:07:47 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb 25 10:07:47 2017
+
+**** BEGIN LOGGING AT Sat Feb 25 11:03:08 2017
+
+Feb 25 11:03:08 *	Looking up irc.librairc.net
+Feb 25 11:03:08 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Feb 25 11:03:09 *	Connected. Now logging in.
+Feb 25 11:03:09 *	*** Looking up your hostname...
+Feb 25 11:03:09 *	*** Skipping host resolution (disabled by server administrator)
+Feb 25 11:03:09 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Feb 25 11:03:09 *	Capabilities requested: multi-prefix userhost-in-names 
+Feb 25 11:03:09 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Feb 25 11:03:10 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Feb 25 11:03:10 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG vKe~x[xxCk or /raw PONG vKe~x[xxCk now.
+Feb 25 11:03:11 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Feb 25 11:03:11 2017
+
+**** BEGIN LOGGING AT Fri Mar  3 16:15:19 2017
+
+Mar 03 16:15:19 *	Looking up irc.librairc.net
+Mar 03 16:15:19 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 03 16:15:19 *	Connected. Now logging in.
+Mar 03 16:15:19 *	*** Looking up your hostname...
+Mar 03 16:15:19 *	*** Skipping host resolution (disabled by server administrator)
+Mar 03 16:15:20 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 03 16:15:20 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 03 16:15:20 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 03 16:15:20 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 03 16:15:20 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG }CaEOt[ysh or /raw PONG }CaEOt[ysh now.
+Mar 03 16:15:21 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Mar  3 16:15:21 2017
+
+**** BEGIN LOGGING AT Fri Mar  3 19:12:03 2017
+
+Mar 03 19:12:03 *	Looking up irc.librairc.net
+Mar 03 19:12:03 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Mar 03 19:12:03 *	Connected. Now logging in.
+Mar 03 19:12:04 *	*** Looking up your hostname...
+Mar 03 19:12:04 *	*** Skipping host resolution (disabled by server administrator)
+Mar 03 19:12:04 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 03 19:12:04 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 03 19:12:04 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 03 19:12:04 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 03 19:12:05 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG mW\V]wI}NL or /raw PONG mW\V]wI}NL now.
+Mar 03 19:12:05 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Mar  3 19:12:05 2017
+
+**** BEGIN LOGGING AT Tue Mar  7 15:57:30 2017
+
+Mar 07 15:57:30 *	Looking up irc.librairc.net
+Mar 07 15:58:00 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 07 15:58:01 *	Connected. Now logging in.
+Mar 07 15:58:01 *	*** Looking up your hostname...
+Mar 07 15:58:01 *	*** Skipping host resolution (disabled by server administrator)
+Mar 07 15:58:01 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 07 15:58:01 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 07 15:58:01 *	RammsteinFan is already in use. Retrying with BanMe...
+Mar 07 15:58:02 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 07 15:58:02 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG zfjoeUMPGW or /raw PONG zfjoeUMPGW now.
+Mar 07 15:58:03 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Mar  7 15:58:03 2017
+
+**** BEGIN LOGGING AT Thu Mar  9 09:21:04 2017
+
+Mar 09 09:21:04 *	Looking up irc.librairc.net
+Mar 09 09:21:04 *	Unknown host. Maybe you misspelled it?
+Mar 09 09:21:06 Update Checker plugin unloaded
+Mar 09 09:21:07 Do At plugin unloaded
+**** ENDING LOGGING AT Thu Mar  9 09:21:07 2017
+
+**** BEGIN LOGGING AT Thu Mar  9 09:21:20 2017
+
+Mar 09 09:21:20 *	Looking up irc.librairc.net
+Mar 09 09:21:20 *	Unknown host. Maybe you misspelled it?
+Mar 09 09:21:25 Update Checker plugin unloaded
+Mar 09 09:21:25 Do At plugin unloaded
+**** ENDING LOGGING AT Thu Mar  9 09:21:25 2017
+
+**** BEGIN LOGGING AT Thu Mar  9 09:21:41 2017
+
+Mar 09 09:21:41 *	Looking up irc.librairc.net
+Mar 09 09:21:41 *	Unknown host. Maybe you misspelled it?
+Mar 09 09:21:45 Update Checker plugin unloaded
+Mar 09 09:21:45 Do At plugin unloaded
+**** ENDING LOGGING AT Thu Mar  9 09:21:45 2017
+
+**** BEGIN LOGGING AT Thu Mar  9 09:22:04 2017
+
+Mar 09 09:22:04 *	Looking up irc.librairc.net
+Mar 09 09:22:04 *	Unknown host. Maybe you misspelled it?
+Mar 09 09:22:05 Update Checker plugin unloaded
+Mar 09 09:22:05 Do At plugin unloaded
+**** ENDING LOGGING AT Thu Mar  9 09:22:05 2017
+
+**** BEGIN LOGGING AT Sun Mar 12 01:34:13 2017
+
+Mar 12 01:34:13 *	Looking up irc.librairc.net
+Mar 12 01:34:14 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Mar 12 01:34:14 *	Connected. Now logging in.
+Mar 12 01:34:14 *	*** Looking up your hostname...
+Mar 12 01:34:14 *	*** Skipping host resolution (disabled by server administrator)
+Mar 12 01:34:14 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 12 01:34:14 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 12 01:34:14 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 12 01:34:15 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 12 01:34:15 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG FigBrT]mWy or /raw PONG FigBrT]mWy now.
+Mar 12 01:34:16 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Mar 12 01:34:16 2017
+
+**** BEGIN LOGGING AT Sun Mar 12 15:26:07 2017
+
+Mar 12 15:26:07 *	Looking up irc.librairc.net
+Mar 12 15:26:07 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 12 15:26:07 *	Connected. Now logging in.
+Mar 12 15:26:08 *	*** Looking up your hostname...
+Mar 12 15:26:08 *	*** Skipping host resolution (disabled by server administrator)
+Mar 12 15:26:08 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 12 15:26:08 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 12 15:26:08 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 12 15:26:08 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 12 15:26:09 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG SevTG?Vg{g or /raw PONG SevTG?Vg{g now.
+Mar 12 15:26:10 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Mar 12 15:26:10 2017
+
+**** BEGIN LOGGING AT Sun Mar 12 17:14:42 2017
+
+Mar 12 17:14:42 *	Looking up irc.librairc.net
+Mar 12 17:14:42 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 12 17:14:42 *	Connected. Now logging in.
+Mar 12 17:14:43 *	*** Looking up your hostname...
+Mar 12 17:14:43 *	*** Skipping host resolution (disabled by server administrator)
+Mar 12 17:14:43 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 12 17:14:43 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 12 17:14:43 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG YiLpjMm~cj or /raw PONG YiLpjMm~cj now.
+Mar 12 17:14:43 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 12 17:14:44 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Mar 12 17:14:44 2017
+
+**** BEGIN LOGGING AT Sun Mar 12 17:15:00 2017
+
+Mar 12 17:15:00 *	Looking up irc.librairc.net
+Mar 12 17:15:00 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 12 17:15:00 *	Connected. Now logging in.
+Mar 12 17:15:01 *	*** Looking up your hostname...
+Mar 12 17:15:01 *	*** Skipping host resolution (disabled by server administrator)
+Mar 12 17:15:01 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 12 17:15:01 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 12 17:15:01 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 12 17:15:01 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 12 17:15:02 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG gQHivCx@Kq or /raw PONG gQHivCx@Kq now.
+Mar 12 17:15:02 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Mar 12 17:15:02 2017
+
+**** BEGIN LOGGING AT Mon Mar 13 15:08:44 2017
+
+Mar 13 15:08:44 *	Looking up irc.librairc.net
+Mar 13 15:08:44 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 13 15:08:45 *	Connected. Now logging in.
+Mar 13 15:08:45 *	*** Looking up your hostname...
+Mar 13 15:08:45 *	*** Skipping host resolution (disabled by server administrator)
+Mar 13 15:08:45 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 13 15:08:45 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 13 15:08:45 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 13 15:08:46 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 13 15:08:46 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Inc{NmarMr or /raw PONG Inc{NmarMr now.
+Mar 13 15:08:46 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon Mar 13 15:08:46 2017
+
+**** BEGIN LOGGING AT Mon Mar 20 22:53:46 2017
+
+Mar 20 22:53:46 *	Looking up irc.librairc.net
+Mar 20 22:53:46 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 20 22:53:46 *	Connected. Now logging in.
+Mar 20 22:53:47 *	*** Looking up your hostname...
+Mar 20 22:53:47 *	*** Skipping host resolution (disabled by server administrator)
+Mar 20 22:53:47 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 20 22:53:47 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 20 22:53:47 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 20 22:53:48 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 20 22:53:48 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Fib`mfisRG or /raw PONG Fib`mfisRG now.
+Mar 20 22:53:49 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon Mar 20 22:53:49 2017
+
+**** BEGIN LOGGING AT Sat Mar 25 01:50:43 2017
+
+Mar 25 01:50:43 *	Looking up irc.librairc.net
+Mar 25 01:50:43 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Mar 25 01:50:44 *	Connected. Now logging in.
+Mar 25 01:50:44 *	*** Looking up your hostname...
+Mar 25 01:50:44 *	*** Skipping host resolution (disabled by server administrator)
+Mar 25 01:50:44 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 25 01:50:44 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 25 01:50:44 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 25 01:50:45 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 25 01:50:45 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG llVrj[tw~S or /raw PONG llVrj[tw~S now.
+Mar 25 01:50:46 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat Mar 25 01:50:46 2017
+
+**** BEGIN LOGGING AT Sun Mar 26 05:20:18 2017
+
+Mar 26 05:20:18 *	Looking up irc.librairc.net
+Mar 26 05:20:19 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 26 05:20:19 *	Connected. Now logging in.
+Mar 26 05:20:19 *	*** Looking up your hostname...
+Mar 26 05:20:19 *	*** Skipping host resolution (disabled by server administrator)
+Mar 26 05:20:19 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 26 05:20:19 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 26 05:20:20 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 26 05:20:20 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 26 05:20:20 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG \MLywPoYEu or /raw PONG \MLywPoYEu now.
+Mar 26 05:20:20 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Mar 26 05:20:20 2017
+
+**** BEGIN LOGGING AT Tue Mar 28 01:04:20 2017
+
+Mar 28 01:04:20 *	Looking up irc.librairc.net
+Mar 28 01:04:20 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 28 01:04:20 *	Connected. Now logging in.
+Mar 28 01:04:20 *	*** Looking up your hostname...
+Mar 28 01:04:20 *	*** Skipping host resolution (disabled by server administrator)
+Mar 28 01:04:21 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 28 01:04:21 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 28 01:04:21 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 28 01:04:21 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 28 01:04:21 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG KUeaFzcnDv or /raw PONG KUeaFzcnDv now.
+Mar 28 01:04:22 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue Mar 28 01:04:22 2017
+
+**** BEGIN LOGGING AT Wed Mar 29 21:45:21 2017
+
+Mar 29 21:45:21 *	Looking up irc.librairc.net
+Mar 29 21:45:21 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Mar 29 21:45:21 *	Connected. Now logging in.
+Mar 29 21:45:21 *	*** Looking up your hostname...
+Mar 29 21:45:21 *	*** Skipping host resolution (disabled by server administrator)
+Mar 29 21:45:21 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Mar 29 21:45:21 *	Capabilities requested: multi-prefix userhost-in-names 
+Mar 29 21:45:22 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Mar 29 21:45:22 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Mar 29 21:45:22 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG zWj}hMXFd` or /raw PONG zWj}hMXFd` now.
+Mar 29 21:45:23 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed Mar 29 21:45:23 2017
+
+**** BEGIN LOGGING AT Sun Apr  2 11:50:03 2017
+
+Apr 02 11:50:03 *	Looking up irc.librairc.net
+Apr 02 11:50:03 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Apr 02 11:50:03 *	Connected. Now logging in.
+Apr 02 11:50:04 *	*** Looking up your hostname...
+Apr 02 11:50:04 *	*** Skipping host resolution (disabled by server administrator)
+Apr 02 11:50:04 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 02 11:50:04 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 02 11:50:04 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 02 11:50:04 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 02 11:50:05 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG zH^CMwS\Rg or /raw PONG zH^CMwS\Rg now.
+Apr 02 11:50:06 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Apr  2 11:50:06 2017
+
+**** BEGIN LOGGING AT Fri Apr  7 05:49:28 2017
+
+Apr 07 05:49:28 *	Looking up irc.librairc.net
+Apr 07 05:49:58 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Apr 07 05:49:58 *	Connected. Now logging in.
+Apr 07 05:49:59 *	*** Looking up your hostname...
+Apr 07 05:49:59 *	*** Skipping host resolution (disabled by server administrator)
+Apr 07 05:49:59 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 07 05:49:59 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 07 05:49:59 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 07 05:49:59 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 07 05:50:00 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG sZlqiEsdYR or /raw PONG sZlqiEsdYR now.
+Apr 07 05:50:00 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri Apr  7 05:50:00 2017
+
+**** BEGIN LOGGING AT Sun Apr  9 08:33:59 2017
+
+Apr 09 08:33:59 *	Looking up irc.librairc.net
+Apr 09 08:34:29 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Apr 09 08:34:29 *	Connected. Now logging in.
+Apr 09 08:34:29 *	*** Looking up your hostname...
+Apr 09 08:34:29 *	*** Skipping host resolution (disabled by server administrator)
+Apr 09 08:34:30 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 09 08:34:30 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 09 08:34:30 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 09 08:34:30 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 09 08:34:30 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Ujn[ZDyyfw or /raw PONG Ujn[ZDyyfw now.
+Apr 09 08:34:31 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Apr  9 08:34:31 2017
+
+**** BEGIN LOGGING AT Mon Apr 10 08:28:01 2017
+
+Apr 10 08:28:01 *	Looking up irc.librairc.net
+Apr 10 08:28:01 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+Apr 10 08:28:02 *	Connected. Now logging in.
+Apr 10 08:28:02 *	*** Looking up your hostname...
+Apr 10 08:28:02 *	*** Skipping host resolution (disabled by server administrator)
+Apr 10 08:28:02 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 10 08:28:02 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 10 08:28:02 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 10 08:28:03 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 10 08:28:03 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG IN{im{w]_K or /raw PONG IN{im{w]_K now.
+Apr 10 08:28:03 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon Apr 10 08:28:03 2017
+
+**** BEGIN LOGGING AT Thu Apr 27 15:06:02 2017
+
+Apr 27 15:06:02 *	Looking up irc.librairc.net
+Apr 27 15:06:03 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Apr 27 15:06:03 *	Connected. Now logging in.
+Apr 27 15:06:03 *	*** Looking up your hostname...
+Apr 27 15:06:03 *	*** Skipping host resolution (disabled by server administrator)
+Apr 27 15:06:03 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 27 15:06:03 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 27 15:06:03 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 27 15:06:04 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 27 15:06:04 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Th?LqBdoa` or /raw PONG Th?LqBdoa` now.
+Apr 27 15:06:05 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu Apr 27 15:06:05 2017
+
+**** BEGIN LOGGING AT Sun Apr 30 14:23:14 2017
+
+Apr 30 14:23:14 *	Looking up irc.librairc.net
+Apr 30 14:23:14 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Apr 30 14:23:14 *	Connected. Now logging in.
+Apr 30 14:23:15 *	*** Looking up your hostname...
+Apr 30 14:23:15 *	*** Skipping host resolution (disabled by server administrator)
+Apr 30 14:23:15 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 30 14:23:15 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 30 14:23:15 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 30 14:23:15 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 30 14:23:16 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG NH\pQt^oQY or /raw PONG NH\pQt^oQY now.
+Apr 30 14:23:17 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Apr 30 14:23:17 2017
+
+**** BEGIN LOGGING AT Sun Apr 30 17:26:38 2017
+
+Apr 30 17:26:38 *	Looking up irc.librairc.net
+Apr 30 17:27:08 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+Apr 30 17:27:08 *	Connected. Now logging in.
+Apr 30 17:27:08 *	*** Looking up your hostname...
+Apr 30 17:27:08 *	*** Skipping host resolution (disabled by server administrator)
+Apr 30 17:27:09 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 30 17:27:09 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 30 17:27:09 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 30 17:27:09 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 30 17:27:10 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG NsVou~Ban] or /raw PONG NsVou~Ban] now.
+Apr 30 17:27:11 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Apr 30 17:27:11 2017
+
+**** BEGIN LOGGING AT Sun Apr 30 20:17:51 2017
+
+Apr 30 20:17:51 *	Looking up irc.librairc.net
+Apr 30 20:18:22 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+Apr 30 20:18:22 *	Connected. Now logging in.
+Apr 30 20:18:22 *	*** Looking up your hostname...
+Apr 30 20:18:22 *	*** Skipping host resolution (disabled by server administrator)
+Apr 30 20:18:22 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+Apr 30 20:18:22 *	Capabilities requested: multi-prefix userhost-in-names 
+Apr 30 20:18:22 *	RammsteinFan is already in use. Retrying with DjAmmo...
+Apr 30 20:18:23 *	Capabilities acknowledged: multi-prefix userhost-in-names
+Apr 30 20:18:23 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG PlyfCS?cD? or /raw PONG PlyfCS?cD? now.
+Apr 30 20:18:24 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun Apr 30 20:18:24 2017
+
+**** BEGIN LOGGING AT Tue May  2 00:53:18 2017
+
+May 02 00:53:18 *	Looking up irc.librairc.net
+May 02 00:53:19 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 02 00:53:19 *	Connected. Now logging in.
+May 02 00:53:19 *	*** Looking up your hostname...
+May 02 00:53:19 *	*** Skipping host resolution (disabled by server administrator)
+May 02 00:53:19 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 02 00:53:19 *	Capabilities requested: multi-prefix userhost-in-names 
+May 02 00:53:20 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 02 00:53:20 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 02 00:53:20 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG upwPpQpp`E or /raw PONG upwPpQpp`E now.
+May 02 00:53:21 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue May  2 00:53:21 2017
+
+**** BEGIN LOGGING AT Fri May  5 01:02:09 2017
+
+May 05 01:02:09 *	Looking up irc.librairc.net
+May 05 01:02:09 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 05 01:02:09 *	Connected. Now logging in.
+May 05 01:02:09 *	*** Looking up your hostname...
+May 05 01:02:09 *	*** Skipping host resolution (disabled by server administrator)
+May 05 01:02:10 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 05 01:02:10 *	Capabilities requested: multi-prefix userhost-in-names 
+May 05 01:02:10 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 05 01:02:10 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 05 01:02:11 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG XoVh]\u`m~ or /raw PONG XoVh]\u`m~ now.
+May 05 01:02:12 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri May  5 01:02:12 2017
+
+**** BEGIN LOGGING AT Fri May  5 23:41:25 2017
+
+May 05 23:41:25 *	Looking up irc.librairc.net
+May 05 23:41:55 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+May 05 23:41:55 *	Connected. Now logging in.
+May 05 23:41:56 *	*** Looking up your hostname...
+May 05 23:41:56 *	*** Skipping host resolution (disabled by server administrator)
+May 05 23:41:56 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 05 23:41:56 *	Capabilities requested: multi-prefix userhost-in-names 
+May 05 23:41:56 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 05 23:41:57 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 05 23:41:57 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG KjpQ?y@ekO or /raw PONG KjpQ?y@ekO now.
+May 05 23:41:58 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri May  5 23:41:58 2017
+
+**** BEGIN LOGGING AT Sun May  7 22:44:58 2017
+
+May 07 22:44:58 *	Looking up irc.librairc.net
+May 07 22:44:58 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+May 07 22:44:58 *	Connected. Now logging in.
+May 07 22:44:59 *	*** Looking up your hostname...
+May 07 22:44:59 *	*** Skipping host resolution (disabled by server administrator)
+May 07 22:44:59 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 07 22:44:59 *	Capabilities requested: multi-prefix userhost-in-names 
+May 07 22:44:59 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 07 22:44:59 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 07 22:44:59 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG Mv[teV`Zxq or /raw PONG Mv[teV`Zxq now.
+May 07 22:45:00 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun May  7 22:45:00 2017
+
+**** BEGIN LOGGING AT Thu May 11 00:32:06 2017
+
+May 11 00:32:06 *	Looking up irc.librairc.net
+May 11 00:32:06 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+May 11 00:32:07 *	Connected. Now logging in.
+May 11 00:32:07 *	*** Looking up your hostname...
+May 11 00:32:07 *	*** Skipping host resolution (disabled by server administrator)
+May 11 00:32:07 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 11 00:32:07 *	Capabilities requested: multi-prefix userhost-in-names 
+May 11 00:32:07 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 11 00:32:08 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 11 00:32:08 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ysimEvjIdE or /raw PONG ysimEvjIdE now.
+May 11 00:32:09 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu May 11 00:32:09 2017
+
+**** BEGIN LOGGING AT Fri May 12 00:59:31 2017
+
+May 12 00:59:31 *	Looking up irc.librairc.net
+May 12 00:59:31 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 12 00:59:31 *	Connected. Now logging in.
+May 12 00:59:32 *	*** Looking up your hostname...
+May 12 00:59:32 *	*** Skipping host resolution (disabled by server administrator)
+May 12 00:59:32 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 12 00:59:32 *	Capabilities requested: multi-prefix userhost-in-names 
+May 12 00:59:32 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 12 00:59:32 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 12 00:59:32 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG YHKWoZpEXn or /raw PONG YHKWoZpEXn now.
+May 12 00:59:33 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Fri May 12 00:59:33 2017
+
+**** BEGIN LOGGING AT Sat May 13 00:33:12 2017
+
+May 13 00:33:12 *	Looking up irc.librairc.net
+May 13 00:33:12 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 13 00:33:12 *	Connected. Now logging in.
+May 13 00:33:13 *	*** Looking up your hostname...
+May 13 00:33:13 *	*** Skipping host resolution (disabled by server administrator)
+May 13 00:33:13 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 13 00:33:13 *	Capabilities requested: multi-prefix userhost-in-names 
+May 13 00:33:13 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 13 00:33:13 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 13 00:33:13 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ~es|?y|et_ or /raw PONG ~es|?y|et_ now.
+May 13 00:33:15 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat May 13 00:33:15 2017
+
+**** BEGIN LOGGING AT Sat May 13 22:57:05 2017
+
+May 13 22:57:05 *	Looking up irc.librairc.net
+May 13 22:57:06 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+May 13 22:57:06 *	Connected. Now logging in.
+May 13 22:57:06 *	*** Looking up your hostname...
+May 13 22:57:06 *	*** Skipping host resolution (disabled by server administrator)
+May 13 22:57:06 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 13 22:57:06 *	Capabilities requested: multi-prefix userhost-in-names 
+May 13 22:57:06 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 13 22:57:07 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 13 22:57:07 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG t{yI{bRWEK or /raw PONG t{yI{bRWEK now.
+May 13 22:57:08 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat May 13 22:57:08 2017
+
+**** BEGIN LOGGING AT Mon May 15 16:08:57 2017
+
+May 15 16:08:57 *	Looking up irc.librairc.net
+May 15 16:08:58 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+May 15 16:08:58 *	Connected. Now logging in.
+May 15 16:08:58 *	*** Looking up your hostname...
+May 15 16:08:58 *	*** Skipping host resolution (disabled by server administrator)
+May 15 16:08:58 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 15 16:08:58 *	Capabilities requested: multi-prefix userhost-in-names 
+May 15 16:08:58 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 15 16:08:59 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 15 16:08:59 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG _lhLXTnWIM or /raw PONG _lhLXTnWIM now.
+May 15 16:09:00 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon May 15 16:09:00 2017
+
+**** BEGIN LOGGING AT Tue May 16 02:35:44 2017
+
+May 16 02:35:44 *	Looking up irc.librairc.net
+May 16 02:35:44 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 16 02:35:45 *	Connected. Now logging in.
+May 16 02:35:45 *	*** Looking up your hostname...
+May 16 02:35:45 *	*** Skipping host resolution (disabled by server administrator)
+May 16 02:35:45 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 16 02:35:45 *	Capabilities requested: multi-prefix userhost-in-names 
+May 16 02:35:45 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 16 02:35:45 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 16 02:35:46 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG ?ke]srwE`s or /raw PONG ?ke]srwE`s now.
+May 16 02:35:46 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Tue May 16 02:35:46 2017
+
+**** BEGIN LOGGING AT Sat May 20 02:08:16 2017
+
+May 20 02:08:17 *	Looking up irc.librairc.net
+May 20 02:08:17 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 20 02:08:17 *	Connected. Now logging in.
+May 20 02:08:17 *	*** Looking up your hostname...
+May 20 02:08:17 *	*** Skipping host resolution (disabled by server administrator)
+May 20 02:08:17 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 20 02:08:17 *	Capabilities requested: multi-prefix userhost-in-names 
+May 20 02:08:17 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 20 02:08:18 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 20 02:08:18 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG NWUQ?JY\sa or /raw PONG NWUQ?JY\sa now.
+May 20 02:08:19 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat May 20 02:08:19 2017
+
+**** BEGIN LOGGING AT Sun May 21 09:05:31 2017
+
+May 21 09:05:31 *	Looking up irc.librairc.net
+May 21 09:06:01 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+May 21 09:06:01 *	Connected. Now logging in.
+May 21 09:06:01 *	*** Looking up your hostname...
+May 21 09:06:01 *	*** Skipping host resolution (disabled by server administrator)
+May 21 09:06:02 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 21 09:06:02 *	Capabilities requested: multi-prefix userhost-in-names 
+May 21 09:06:02 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG dpuwjQmwCA or /raw PONG dpuwjQmwCA now.
+May 21 09:06:02 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 21 09:06:03 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sun May 21 09:06:03 2017
+
+**** BEGIN LOGGING AT Mon May 22 01:28:22 2017
+
+May 22 01:28:22 *	Looking up irc.librairc.net
+May 22 01:28:22 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 22 01:28:23 *	Connected. Now logging in.
+May 22 01:28:23 *	*** Looking up your hostname...
+May 22 01:28:23 *	*** Skipping host resolution (disabled by server administrator)
+May 22 01:28:23 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 22 01:28:23 *	Capabilities requested: multi-prefix userhost-in-names 
+May 22 01:28:23 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 22 01:28:23 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 22 01:28:24 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG {ehRQazjlM or /raw PONG {ehRQazjlM now.
+May 22 01:28:24 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon May 22 01:28:24 2017
+
+**** BEGIN LOGGING AT Wed May 24 01:07:31 2017
+
+May 24 01:07:31 *	Looking up irc.librairc.net
+May 24 01:08:01 *	Connecting to irc.librairc.net (194.135.81.61:6667)
+May 24 01:08:02 *	Connected. Now logging in.
+May 24 01:08:02 *	*** Looking up your hostname...
+May 24 01:08:02 *	*** Skipping host resolution (disabled by server administrator)
+May 24 01:08:02 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 24 01:08:02 *	Capabilities requested: multi-prefix userhost-in-names 
+May 24 01:08:02 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 24 01:08:03 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 24 01:08:03 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG TpWkYYZ\i\ or /raw PONG TpWkYYZ\i\ now.
+May 24 01:08:04 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Wed May 24 01:08:04 2017
+
+**** BEGIN LOGGING AT Thu May 25 01:27:06 2017
+
+May 25 01:27:06 *	Looking up irc.librairc.net
+May 25 01:27:06 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+May 25 01:27:07 *	Connected. Now logging in.
+May 25 01:27:07 *	*** Looking up your hostname...
+May 25 01:27:07 *	*** Skipping host resolution (disabled by server administrator)
+May 25 01:27:07 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 25 01:27:07 *	Capabilities requested: multi-prefix userhost-in-names 
+May 25 01:27:07 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 25 01:27:07 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 25 01:27:08 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG wRDzuVEFOa or /raw PONG wRDzuVEFOa now.
+May 25 01:27:08 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu May 25 01:27:08 2017
+
+**** BEGIN LOGGING AT Thu May 25 06:12:04 2017
+
+May 25 06:12:04 *	Looking up irc.librairc.net
+May 25 06:12:04 *	Connecting to irc.librairc.net (158.69.192.190:6667)
+May 25 06:12:05 *	Connected. Now logging in.
+May 25 06:12:05 *	*** Looking up your hostname...
+May 25 06:12:05 *	*** Skipping host resolution (disabled by server administrator)
+May 25 06:12:05 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 25 06:12:05 *	Capabilities requested: multi-prefix userhost-in-names 
+May 25 06:12:05 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 25 06:12:06 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 25 06:12:06 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG eC~Cj@mJdN or /raw PONG eC~Cj@mJdN now.
+May 25 06:12:06 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Thu May 25 06:12:06 2017
+
+**** BEGIN LOGGING AT Sat May 27 10:22:23 2017
+
+May 27 10:22:23 *	Looking up irc.librairc.net
+May 27 10:22:23 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 27 10:22:23 *	Connected. Now logging in.
+May 27 10:22:23 *	*** Looking up your hostname...
+May 27 10:22:23 *	*** Skipping host resolution (disabled by server administrator)
+May 27 10:22:23 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 27 10:22:23 *	Capabilities requested: multi-prefix userhost-in-names 
+May 27 10:22:24 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 27 10:22:24 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 27 10:22:24 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG VceBoXBqyh or /raw PONG VceBoXBqyh now.
+May 27 10:22:24 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Sat May 27 10:22:24 2017
+
+**** BEGIN LOGGING AT Mon May 29 15:03:59 2017
+
+May 29 15:03:59 *	Looking up irc.librairc.net
+May 29 15:04:29 *	Connecting to irc.librairc.net (92.222.95.45:6667)
+May 29 15:04:30 *	Connected. Now logging in.
+May 29 15:04:30 *	*** Looking up your hostname...
+May 29 15:04:30 *	*** Skipping host resolution (disabled by server administrator)
+May 29 15:04:30 *	Capabilities supported: multi-prefix sasl tls userhost-in-names
+May 29 15:04:30 *	Capabilities requested: multi-prefix userhost-in-names 
+May 29 15:04:30 *	RammsteinFan is already in use. Retrying with DjAmmo...
+May 29 15:04:30 *	Capabilities acknowledged: multi-prefix userhost-in-names
+May 29 15:04:31 *	*** If you are having problems connecting due to ping timeouts, please type /quote PONG CJeptj|@|U or /raw PONG CJeptj|@|U now.
+May 29 15:04:32 *	Welcome to LibraIRC!
+**** ENDING LOGGING AT Mon May 29 15:04:32 2017
+

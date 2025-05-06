@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<blocks>
+    <block name="head">
+        <id>Block ID</id>
+        <name>Data Name (maybe as per C language)</name>
+        <length>Length (in Bytes)</length>
+        <block>Block Type(1Bit)</block>
+        <write_protection>Write Protection(1Bit)</write_protection>
+        <crc_type>CRC Type(2Bit)</crc_type>
+        <secure_block>Secure Block(1Bit)</secure_block>
+        <block_status>Block Status(1Bit)</block_status>
+        <block_modification>Block Modification(1Bit)</block_modification>
+        <block_filled_status>Block Filled Status(1bit)</block_filled_status>
+    </block>
+    <block name="0">
+        <id>0</id>
+        <name>LegicCommandData1</name>
+        <length>4</length>
+        <block>User</block>
+        <write_protection>Disable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block>Disable</secure_block>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="1">
+        <id>1</id>
+        <name>LegicCommandData2</name>
+        <length>12</length>
+        <block>User</block>
+        <write_protection>Enable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="2">
+        <id>2</id>
+        <name>LegicCommandData3</name>
+        <length>4</length>
+        <block>User</block>
+        <write_protection>Enable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="3">
+        <id>3</id>
+        <name>LegicCommandData4</name>
+        <length>4</length>
+        <block>User</block>
+        <write_protection>Enable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="4">
+        <id>4</id>
+        <name>LegicCommandData5</name>
+        <length>13</length>
+        <block>User</block>
+        <write_protection>Enable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="5">
+        <id>5</id>
+        <name>LegicResponseMonitorData1</name>
+        <length>7</length>
+        <block>User</block>
+        <write_protection>Enable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="6">
+        <id>6</id>
+        <name>LegicResponseMonitorData2</name>
+        <length>8</length>
+        <block>User</block>
+        <write_protection>Disable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="7">
+        <id>7</id>
+        <name>LegicResponseMonitorData3</name>
+        <length>6</length>
+        <block>User</block>
+        <write_protection>Disable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="8">
+        <id>8</id>
+        <name>LedOnOffData</name>
+        <length>13</length>
+        <block>User</block>
+        <write_protection>Disable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+    <block name="9">
+        <id>9</id>
+        <name>VoltageMonitorData</name>
+        <length>2</length>
+        <block>User</block>
+        <write_protection>Disable</write_protection>
+        <crc_type>CRC8</crc_type>
+        <secure_block/>
+        <block_status/>
+        <block_modification/>
+        <block_filled_status/>
+    </block>
+</blocks>

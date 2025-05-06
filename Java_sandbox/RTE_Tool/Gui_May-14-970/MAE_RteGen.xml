@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rtegen modified="2021-04-16T16:23:15" now="2021-04-16T17:13:47">
+   <SW_Cs>
+      <SW_C abbreviation="CCA">
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <SenderReceiver name="ConfigurationAndCalibration"
+                         base_type="unsignedByte"
+                         dir="In"
+                         size="54"/>
+      </SW_C>
+      <SW_C abbreviation="KEOL">
+         <Runnable name="StoreKeyAtEol" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="SucC">
+         <Runnable name="SuperCapController" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="SgVeh">
+         <ClientServer dir="In" interface="CompuMethodEncoder">
+            <Operation name="EncodeSignal" return="'missing-type'">
+               <Parameter name="Signal ID" direction="In" type="unsignedByte"/>
+               <Parameter name="Value" direction="In" type="unsignedByte"/>
+               <Parameter name="Encoded Value" direction="Out" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="SignalsToVehicle" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="DfSAct">
+         <ClientServer dir="In" interface="LegicCommand">
+            <Operation name="SetCommand">
+               <Parameter name="group" direction="In" type="unsignedByte"/>
+               <Parameter name="cmd" direction="In" type="unsignedByte"/>
+               <Parameter name="type" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="byte"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="CompuMethodEncoder">
+            <Operation name="EncodeSignal" return="'missing-type'">
+               <Parameter name="Signal ID" direction="In" type="unsignedByte"/>
+               <Parameter name="Value" direction="In" type="unsignedByte"/>
+               <Parameter name="Encoded Value" direction="Out" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <SenderReceiver name="UwbDistanceOverCan"
+                         base_type="unsignedByte"
+                         dir="Out"
+                         size="8"
+                         CAN_ID="1904"/>
+         <SenderReceiver name="UwbDistance" base_type="unsignedByte" dir="In" size="10"/>
+      </SW_C>
+      <SW_C abbreviation="ItVSim">
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="InformationToVehicleSimulatorRunnable" cycle="Cycle5ms"/>
+      </SW_C>
+      <SW_C abbreviation="LED">
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="LedOnOff" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="LgcC">
+         <ClientServer dir="In" interface="LegicCommand">
+            <Operation name="SetCommand">
+               <Parameter name="group" direction="In" type="unsignedByte"/>
+               <Parameter name="cmd" direction="In" type="unsignedByte"/>
+               <Parameter name="type" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="byte"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="LegicCommands" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="PosLog">
+         <Runnable name="InitPositionLogger" cycle="Cycle5ms"/>
+         <Runnable name="PositionLoggerRunnable" cycle="Cycle5ms"/>
+         <Runnable name="WarmStart" cycle="Init"/>
+         <SenderReceiver name="PositionResult"
+                         base_type="unsignedByte"
+                         dir="Out"
+                         size="7"
+                         CAN_ID="1936"/>
+         <SenderReceiver name="SmartDevicesPositions"
+                         base_type="unsignedByte"
+                         dir="In"
+                         size="55"/>
+      </SW_C>
+      <SW_C abbreviation="SmDA">
+         <ClientServer dir="In" interface="LegicCommand">
+            <Operation name="SetCommand">
+               <Parameter name="group" direction="In" type="unsignedByte"/>
+               <Parameter name="cmd" direction="In" type="unsignedByte"/>
+               <Parameter name="type" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="byte"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+      </SW_C>
+      <SW_C abbreviation="SmDM">
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="LegicResponse">
+            <Operation name="GetLegicCommandResponse">
+               <Parameter name="kind" direction="Out" type="unsignedByte"/>
+               <Parameter name="response" direction="In" type="unsignedByte"/>
+               <Parameter name="command" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="Init" cycle="Init"/>
+         <Runnable name="SmartDeviceRecive" cycle="Init"/>
+         <SenderReceiver name="SignalStrengthForDistance"
+                         base_type="float"
+                         dir="Out"
+                         size="4"/>
+         <SenderReceiver name="SmartDevicesPositions"
+                         base_type="unsignedByte"
+                         dir="In"
+                         size="55"/>
+      </SW_C>
+      <SW_C abbreviation="LgcSPI">
+         <ClientServer dir="Out" interface="LegicCommand">
+            <Operation name="SetCommand">
+               <Parameter name="group" direction="In" type="unsignedByte"/>
+               <Parameter name="cmd" direction="In" type="unsignedByte"/>
+               <Parameter name="type" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="byte"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="Out" interface="LegicResponse">
+            <Operation name="GetLegicCommandResponse">
+               <Parameter name="kind" direction="Out" type="unsignedByte"/>
+               <Parameter name="response" direction="In" type="unsignedByte"/>
+               <Parameter name="command" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="LgcSpi" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="PosC">
+         <Runnable name="PositionCalculationRunnable" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+         <SenderReceiver name="SmartDevicesPositions"
+                         base_type="unsignedByte"
+                         dir="Out"
+                         size="55"/>
+         <SenderReceiver name="BleDistances" base_type="unsignedByte" dir="Out" size="5"/>
+         <SenderReceiver name="SignalStrengthForDistance"
+                         base_type="float"
+                         dir="In"
+                         size="4"/>
+         <SenderReceiver name="UwbDistance" base_type="unsignedByte" dir="In" size="10"/>
+      </SW_C>
+      <SW_C abbreviation="CoME">
+         <ClientServer dir="Out" interface="CompuMethodEncoder">
+            <Operation name="EncodeSignal" return="'missing-type'">
+               <Parameter name="Signal ID" direction="In" type="unsignedByte"/>
+               <Parameter name="Value" direction="In" type="unsignedByte"/>
+               <Parameter name="Encoded Value" direction="Out" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="EncodeSignal" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="CoMD">
+         <ClientServer dir="Out" interface="CompuMethodDecoder">
+            <Operation name="DecodeSignalValue" return="'missing-type'">
+               <Parameter name="SignalID" direction="In" type="unsignedByte"/>
+               <Parameter name="DecodedValue" direction="Out" type="unsignedByte"/>
+               <Parameter name="Value" direction="In" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="DecodeSignalValue" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="MCAL">
+         <ClientServer dir="Out" interface="NxpMcal"/>
+      </SW_C>
+      <SW_C abbreviation="StUp">
+         <ClientServer dir="In" interface="NxpMcal"/>
+         <Runnable name="StartupCode" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="UBSW">
+         <ClientServer dir="Out" interface="MaeServicesApi"/>
+         <ClientServer dir="In" interface="NxpMcal"/>
+      </SW_C>
+      <SW_C abbreviation="Mgr">
+         <ClientServer dir="Out" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+      </SW_C>
+      <SW_C abbreviation="CCM">
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="ConfigurationAndCalibrationMonitor" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+         <SenderReceiver name="ConfigurationAndCalibration"
+                         base_type="unsignedByte"
+                         dir="Out"
+                         size="54"/>
+      </SW_C>
+      <SW_C abbreviation="DgCb">
+         <Runnable name="DiagnosticCallbacks" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="BIST">
+         <Runnable name="HwOperationMonitorAndBist" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="LgcOM">
+         <Runnable name="LegicOperationMonitorRunnable" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="rSTa">
+         <Runnable name="ResetAnalyser" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="SucM">
+         <Runnable name="SuperCapMonitor" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="VolM">
+         <Runnable name="VoltagesMonitor" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="LgcRM">
+         <ClientServer dir="In" interface="LegicCommand">
+            <Operation name="SetCommand">
+               <Parameter name="group" direction="In" type="unsignedByte"/>
+               <Parameter name="cmd" direction="In" type="unsignedByte"/>
+               <Parameter name="type" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="byte"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="LegicResponse">
+            <Operation name="GetLegicCommandResponse">
+               <Parameter name="kind" direction="Out" type="unsignedByte"/>
+               <Parameter name="response" direction="In" type="unsignedByte"/>
+               <Parameter name="command" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="LegicResponseMonitor" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+         <SenderReceiver name="SignalStrengthForDistance"
+                         base_type="float"
+                         dir="Out"
+                         size="4"/>
+         <SenderReceiver name="BleDistances" base_type="unsignedByte" dir="In" size="5"/>
+      </SW_C>
+      <SW_C abbreviation="DfUA">
+         <ClientServer dir="In" interface="CompuMethodDecoder">
+            <Operation name="DecodeSignalValue" return="'missing-type'">
+               <Parameter name="SignalID" direction="In" type="unsignedByte"/>
+               <Parameter name="DecodedValue" direction="Out" type="unsignedByte"/>
+               <Parameter name="Value" direction="In" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <ClientServer dir="In" interface="LegicResponse">
+            <Operation name="GetLegicCommandResponse">
+               <Parameter name="kind" direction="Out" type="unsignedByte"/>
+               <Parameter name="response" direction="In" type="unsignedByte"/>
+               <Parameter name="command" direction="In" type="unsignedByte"/>
+               <Parameter name="length" direction="In" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="ColdStart" cycle="Init"/>
+         <Runnable name="WarmStart" cycle="Init"/>
+         <Runnable name="SwUnitTemplateRunnable" cycle="Init"/>
+         <SenderReceiver name="UwbDistance" base_type="unsignedByte" dir="Out" size="10"/>
+         <SenderReceiver name="UwbDistanceOverCan"
+                         base_type="unsignedByte"
+                         dir="In"
+                         size="8"
+                         CAN_ID="1904"/>
+      </SW_C>
+      <SW_C abbreviation="IfVSim">
+         <ClientServer dir="In" interface="ManagerRte">
+            <Operation name="FlagEvnote" return="'missing-type'">
+               <Parameter name="EvNote" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadActivation" return="'missing-type'">
+               <Parameter name="acti" direction="In" type="unsignedByte"/>
+               <Parameter name="value" direction="Out" type="boolean"/>
+            </Operation>
+            <Operation name="ResetActivation" return="'missing-type'">
+               <Parameter name="activation" direction="In" type="unsignedByte"/>
+            </Operation>
+            <Operation name="ReadState" return="'missing-type'">
+               <Parameter name="state" direction="In" type="unsignedByte"/>
+               <Parameter name="out" direction="Out" type="boolean"/>
+            </Operation>
+         </ClientServer>
+         <Runnable name="InformationFromVehicleSimulator" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+      <SW_C abbreviation="VehL">
+         <ClientServer dir="In" interface="CompuMethodDecoder">
+            <Operation name="DecodeSignalValue" return="'missing-type'">
+               <Parameter name="SignalID" direction="In" type="unsignedByte"/>
+               <Parameter name="DecodedValue" direction="Out" type="unsignedByte"/>
+               <Parameter name="Value" direction="In" type="unsignedByte"/>
+            </Operation>
+         </ClientServer>
+         <SenderReceiver name="VehicleDoorsLockStatus"
+                         base_type="unsignedByte"
+                         dir="In"
+                         size="1"/>
+      </SW_C>
+      <SW_C abbreviation="EoL">
+         <Runnable name="EolSupport" cycle="Cycle5ms"/>
+         <Runnable name="Init" cycle="Init"/>
+      </SW_C>
+   </SW_Cs>
+   <NvM_Blocks>
+      <NvM_Block name="ConfigurationAndCalibration"
+                 id="1"
+                 length="54"
+                 base-type="unsignedByte"/>
+   </NvM_Blocks>
+</rtegen>

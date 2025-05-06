@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<memory_configuration>
+    <unit name="head">
+        <name>Name</name>
+        <value>Value</value>
+        <remark>Remark</remark>
+        <description>Description</description>
+    </unit>
+    <unit name="0">
+        <name>NVM_BLOCK_MAX_LIMIT</name>
+        <value>9</value>
+        <remark/>
+        <description>Number of Logical Blocks in Memory</description>
+    </unit>
+    <unit name="1">
+        <name>NVM_MAX_DATA_BLOCK_SIZE</name>
+        <value>13</value>
+        <remark/>
+        <description>Maximum Data Size of a Logical Block</description>
+    </unit>
+    <unit name="2">
+        <name>CRC_MAX_SIZE</name>
+        <value>1</value>
+        <remark>1,2,4</remark>
+        <description>Maximum CRC Byte Size (Max = 4)</description>
+    </unit>
+    <unit name="3">
+        <name>NVM_QUEUE_SIZE</name>
+        <value>9</value>
+        <remark/>
+        <description>Queue Size: Number of requests in queue</description>
+    </unit>
+</memory_configuration>
