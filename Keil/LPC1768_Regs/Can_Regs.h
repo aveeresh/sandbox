@@ -15,6 +15,17 @@ typedef union
 	uint32 R;
 	struct
 	{
+		uint32 AccOff:1;
+		uint32 AccBP:1;
+		uint32 :30;
+	}B;
+}Can_AFMR_t;
+
+typedef union
+{
+	uint32 R;
+	struct
+	{
 		uint32 TS1:1;
 		uint32 TS2:1;
 		uint32 :6;
